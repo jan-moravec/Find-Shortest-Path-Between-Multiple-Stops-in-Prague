@@ -103,17 +103,25 @@ class PathCalculations():
         for stop in self._connections.get_stops():
             self._map[stop] = True
 
+    def _expand(self):
+        current_stop = self._result[-1]
+        connections_list = self._connections.get_connections(current_stop[0])
+        for connection in connections_list:
+            if self._map.get(connection, False):
+                # (Name, Total Distance, [Path])
+                self._stops_queue.append((connection, round(current_stop[1] + self._connections.get_connection_distance_min(current_stop[0], connection), 1), current_stop[2] + [connection]))
+                # Set stops as processed
+                self._map[connection] = False
+
     def find_all_connections(self, stop: str):
         self._initialize_map()
         self._stops_queue = []
 
+        # Set start stop as visited
         self._map[stop] = False
-        connections_list = self._connections.get_connections(stop)
-        for connection in connections_list:
-            # (Name, Total Distance, [Path])
-            if self._map[connection]:
-                self._stops_queue.append((connection, self._connections.get_connection_distance_min(stop, connection), [stop]))
-                self._map[connection] = False
+        # Append the start stop to results with zero time
+        # (Name, Total Distance, [Path])
+        self._stops_queue.append((stop, 0, [stop]))
 
         while self._stops_queue:
             # Sort
@@ -123,22 +131,11 @@ class PathCalculations():
             self._result.append(self._stops_queue.pop())
 
             # Expand the closest
-            # (Name, Total Distance, [Path])
-            current_stop = self._result[-1]
-            connections_list = self._connections.get_connections(current_stop[0])
-            for connection in connections_list:
-                if self._map.get(connection, False):
-                    self._stops_queue.append((connection, round(current_stop[1] + self._connections.get_connection_distance_min(current_stop[0], connection), 1), current_stop[2] + [current_stop[0]]))
-                    self._map[connection] = False
+            self._expand()
 
-            # Set stops as processed
-
-        #print(self._result)
-        with open("output/Na Pískách.json", 'w', encoding="utf8") as f:
+        with open("output/" + stop + ".json", 'w', encoding="utf8") as f:
             json.dump(self._result, f, ensure_ascii=False, sort_keys=True, indent=4)
-
-        # Get all stops that should be compared
-
+            
 
 if __name__ == "__main__":
     print("Running the main script")
