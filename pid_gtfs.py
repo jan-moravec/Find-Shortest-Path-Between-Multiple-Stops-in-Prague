@@ -17,6 +17,12 @@ class TripStop:
     distance_km: float
     distance_min: float
 
+    def __eq__(self, other): 
+        if not isinstance(other, TripStop):
+            return NotImplemented
+
+        return self.stop_id_from == other.stop_id_from and self.stop_id_to == other.stop_id_to
+
 
 @dataclass
 class Trip:
@@ -25,6 +31,7 @@ class Trip:
     """
     id: str
     trip_stops: list = field(default_factory=list)  # TripStop
+    frequency: int = 1
 
 
 @dataclass
@@ -57,7 +64,7 @@ class StopId:
 @dataclass
 class Stop:
     """
-    This is the main information hilding class.
+    This is the main information hiding class.
     It represents a stop with unique name. 
     Each stop with unique name can incorporate more stop IDs.
     The position is the middle of all StopIds GPS coordinates.
@@ -74,12 +81,19 @@ class PidGtfs:
     def __init__(self):
         self._results: dict = {}
 
-    def calucate(self, input_stops: str = "gtfs/stops.txt", input_stop_times: str = "gtfs/stop_times.txt"):
+    def calculate(self, start_hour: int = 0, stop_hour: int = 48, trip_frequency_min: int = 1,
+                  input_stops: str = "gtfs/stops.txt", input_stop_times: str = "gtfs/stop_times.txt"):
         print(f"Load all stop IDs from {input_stops}")
         stop_ids = self._parse_stop_ids(input_stops)
 
         print(f"Load all trips between stops from {input_stop_times}")
-        trips = self._parse_trips(input_stop_times)
+        trips = self._parse_trips(input_stop_times, start_hour, stop_hour)
+
+        print(f"Process trips")
+        trips_len_before = len(trips)
+        trips = self._process_trips(trips, trip_frequency_min)
+        trips_len_after = len(trips)
+        print(f"Trips length before was {trips_len_before}, after processing is {trips_len_after}")
 
         print("Fill stop IDs with connections, this can take some time")
         self._fill_stop_ids(stop_ids, trips)
@@ -120,7 +134,7 @@ class PidGtfs:
 
         return stop_ids
 
-    def _parse_trips(self, input_stop_times: str) -> dict:
+    def _parse_trips(self, input_stop_times: str, start_hour: int, stop_hour: int) -> dict:
         with open(input_stop_times, encoding="utf8") as f:
             line = f.readline()
             line = line.strip()
@@ -132,6 +146,7 @@ class PidGtfs:
             last_stop_id = None
             last_departure_time = None
             last_traveled = None
+            id_ignore = None
 
             for line in f:
                 line = line.strip()
@@ -143,22 +158,57 @@ class PidGtfs:
                 stop_id = columns[3]
                 traveled = columns[-1]
 
-                if not id in trips:
-                    trips[id] = Trip(id=id)
-                else:
-                    distance_km = float(traveled) - float(last_traveled)
-                    (h, m, s) = departure_time.split(":")
-                    t_1 = float(h) * 60 + float(m) + float(s) / 60
-                    (h, m, s) = last_departure_time.split(":")
-                    t_2 = float(h) * 60 + float(m) + float(s) / 60
-                    distance_min = t_1 - t_2
-                    trips[id].trip_stops.append(TripStop(stop_id_from=last_stop_id, stop_id_to=stop_id, distance_km=distance_km, distance_min=distance_min))
+                if id_ignore != id:
+                    if not id in trips:
+                        # Prepare new trip, if is in the time period
+                        (h, m, s) = departure_time.split(":")
+                        if start_hour < int(h) < stop_hour:
+                            trips[id] = Trip(id=id)
+                        else:
+                            id_ignore = id
+                    
+                    else:
+                        # Append each stop to existing trip
+                        distance_km = float(traveled) - float(last_traveled)
+                        (h, m, s) = departure_time.split(":")
+                        t_1 = float(h) * 60 + float(m) + float(s) / 60
+                        (h, m, s) = last_departure_time.split(":")
+                        t_2 = float(h) * 60 + float(m) + float(s) / 60
+                        distance_min = t_1 - t_2
+                        trips[id].trip_stops.append(TripStop(stop_id_from=last_stop_id, stop_id_to=stop_id, distance_km=distance_km, distance_min=distance_min))
 
                 last_stop_id = stop_id
                 last_departure_time = departure_time
                 last_traveled = traveled
 
         return trips
+
+    def _process_trips(self, trips: dict, trip_frequency_min: int) -> dict:
+        """There are a lot of trips with the same stops -> eliminate them and count the frequency"""
+        trips_new = {}
+
+        for trip in trips.values():
+            for trip_new in trips_new.values():
+                if trip.trip_stops == trip_new.trip_stops:
+                    # If equal, join the two
+                    average_trip_stops = []
+                    for i in range(len(trip.trip_stops)):
+                        average_trip_stops.append(TripStop(stop_id_from=trip.trip_stops[i].stop_id_from, stop_id_to=trip.trip_stops[i].stop_id_to, 
+                                                           distance_km=(trip.trip_stops[i].distance_km + trip_new.trip_stops[i].distance_km) / 2, 
+                                                           distance_min=(trip.trip_stops[i].distance_min + trip_new.trip_stops[i].distance_min) / 2))
+                    trip_new.trip_stops = average_trip_stops
+                    trip_new.frequency += 1
+                    break
+            else:
+                # If the trip was not found, add it to the new list
+                trips_new[trip.id] = trip
+
+        trips_new_filtered = {}
+        for key, trip in trips_new.items():
+            if trip.frequency >= trip_frequency_min:
+                trips_new_filtered[key] = trip
+
+        return trips_new_filtered
 
     def _fill_stop_ids(self, stop_ids: dict, trips: dict):
         progress_step = 10.0

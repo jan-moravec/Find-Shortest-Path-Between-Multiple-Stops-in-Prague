@@ -13,7 +13,7 @@ def main():
         pid_gtfs.load(RESULT_STOPS_JSON_FILE)
     except:
         print("Error loading last results, must recalculate")
-        pid_gtfs.calucate()
+        pid_gtfs.calculate(16, 18, 4)
         print(f"Saving results to {{RESULT_STOPS_JSON_FILE}}")
         pid_gtfs.save(RESULT_STOPS_JSON_FILE)
     else:
