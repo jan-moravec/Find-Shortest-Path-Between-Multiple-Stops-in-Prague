@@ -3,6 +3,8 @@ from path_calculations import ConnectionsAccess, PathCalculations
 
 
 RESULT_STOPS_JSON_FILE = "output/stop_connections.json"
+RESULT_TRIPS_JSON_FILE = "output/stop_trips.json"
+RESULT_TEXT_FILE = "output/results.txt"
 
 
 def main():
@@ -10,16 +12,17 @@ def main():
 
     print(f"Load last results from {RESULT_STOPS_JSON_FILE}, if possible")
     try:
-        pid_gtfs.load(RESULT_STOPS_JSON_FILE)
+        pid_gtfs.load(RESULT_STOPS_JSON_FILE, RESULT_TRIPS_JSON_FILE)
     except:
         print("Error loading last results, must recalculate")
-        pid_gtfs.calculate(16, 18, 4)
-        print(f"Saving results to {{RESULT_STOPS_JSON_FILE}}")
-        pid_gtfs.save(RESULT_STOPS_JSON_FILE)
+        pid_gtfs.calculate(17, 18, 8)
+        print(f"Saving results to {RESULT_STOPS_JSON_FILE}")
+        pid_gtfs.save(RESULT_STOPS_JSON_FILE, RESULT_TRIPS_JSON_FILE)
     else:
         print("Results loaded")
 
     results_stops = pid_gtfs.get_results()
+    result_trips = pid_gtfs.get_trips()
 
     print("Creating class for accessing results")
     connections = ConnectionsAccess(results_stops)
@@ -28,20 +31,90 @@ def main():
     start_stops = ["Na Pískách", "Kudrnova", "Branické náměstí", "Sídliště Malešice"]
     all_paths = get_all_paths(connections, start_stops)
 
-    print("Evaluating stops")
+    print("Updating with minimum transfers needed.")
+    update_path_with_transfer_count(all_paths, result_trips)
+
+    print("Evaluating stops - the lower score the better")
     stops = connections.get_stops()
-    #scores = evaluate_paths(stops, all_paths, sum)
-    scores = evaluate_paths(stops, all_paths, score_function)
+    #scores = evaluate_paths(stops, all_paths, 2, sum)
+    scores = evaluate_paths(stops, all_paths, 2, score_function)
 
     print("Printing results")
     for (index, value) in enumerate(scores):
-        print(f"{index}: {value[0]}")
+        print(f"{index + 1}. {value[0]} ({value[1]})")
 
         for path in all_paths:
-            print(f"\t - {path[value[0]]['path']}")
+            print(f"\t - {path[value[0]]['transfers']} transfers, path:  {path[value[0]]['path']}")
 
         if index == 20:
             break
+
+    print("Saving results to file")
+    with open(RESULT_TEXT_FILE, "w", encoding="utf8") as f: 
+        for (index, value) in enumerate(scores):
+            f.write(f"{index + 1}. {value[0]} ({value[1]})\n")
+
+            for path in all_paths:
+                f.write(f"\t - {path[value[0]]['transfers']} transfers, path:  {path[value[0]]['path']}\n")
+
+            f.write("\n")
+
+
+def update_path_with_transfer_count(all_paths, trips):
+    for paths in all_paths:
+        for path in paths.values():
+            path["transfers"] = get_transfer_count(path["path"], trips)
+
+
+def get_transfer_count(path, connections):
+    index = 0
+    transfer_count = 0
+
+    if len(path) <= 2:
+        return 0
+
+    while True:
+        index += find_most_direct_stop_count(path, index, connections)
+        if path[index] == path[-1]:
+            break
+        else:
+            transfer_count += 1
+
+    return transfer_count
+
+
+def find_most_direct_stop_count(path, path_index, connections):
+    direct_length_max = 0
+    for connection in connections:
+        connection_index = 0
+        while connection_index < len(connection):
+            if connection[connection_index] == path[path_index]:
+                direct_match = 1
+                while True:
+                    if connection_index + direct_match >= len(connection) or path_index + direct_match >= len(path):
+                        break
+
+                    if connection[connection_index + direct_match] == path[path_index + direct_match]:
+                        direct_match += 1
+                    else:
+                        break
+
+                direct_length = direct_match - 1
+                if direct_length > direct_length_max:
+                    direct_length_max = direct_length
+
+                break
+
+            else:
+                connection_index += 1
+
+        if path_index + direct_length_max == len(path) - 1:
+            break  # We are in the target stop
+
+    if direct_length_max == 0:
+        direct_length_max = 1  # This should never happen, but...
+
+    return direct_length_max
 
 
 def get_all_paths(connections: ConnectionsAccess, start_stops: list):
@@ -54,14 +127,14 @@ def get_all_paths(connections: ConnectionsAccess, start_stops: list):
         results_list = calculation.get_results()
         results_dict = {}
         for (stop, distance, path) in results_list:
-            results_dict[stop] = {"distance_min": distance, "path": path}
+            results_dict[stop] = {"distance_min": distance, "path": path, "transfers": "unknown"}
 
         all_paths.append(results_dict)
 
     return all_paths
 
 
-def evaluate_paths(stops: list, all_paths: list, score_function):
+def evaluate_paths(stops: list, all_paths: list, transfer_minutes: float, score_function):
     scores = []
     for stop in stops:
         distances = []
@@ -69,7 +142,7 @@ def evaluate_paths(stops: list, all_paths: list, score_function):
         for path in all_paths:
             if not stop in path:
                 break
-            distances.append(path[stop]["distance_min"])
+            distances.append(path[stop]["distance_min"] + path[stop]["transfers"] * transfer_minutes)
 
         if len(distances) == len(all_paths):
             score = score_function(distances)

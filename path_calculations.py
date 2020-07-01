@@ -65,7 +65,7 @@ class PathCalculations():
         self._connections = connections
         self._map = {}  # Dictionary of all stops and if the were processed
         self._stops_queue = []
-        self._result = []
+        self._result = [] # [(Name, Total Distance, [Path]), ...]
         self._start_stop = stop
 
     def find_all_connections(self):

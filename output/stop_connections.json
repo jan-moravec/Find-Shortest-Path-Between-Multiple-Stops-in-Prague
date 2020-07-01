@@ -39,7 +39,7 @@
         "connections": {
             "Arbesovo náměstí": {
                 "distance_km": 0.50125,
-                "distance_min": 1.984375
+                "distance_min": 1.99951171875
             },
             "Bertramka": {
                 "distance_km": 0.7584600000000008,
@@ -62,7 +62,7 @@
                 "distance_min": 2.0
             },
             "Zborovská": {
-                "distance_km": 0.32296999999999987,
+                "distance_km": 0.3229699999999998,
                 "distance_min": 1.0
             }
         },
@@ -77,7 +77,7 @@
             },
             "Ryšánka": {
                 "distance_km": 0.5201000000000002,
-                "distance_min": 1.0615234375
+                "distance_min": 1.0033950805664062
             }
         },
         "latitude": 50.041605000000004,
@@ -123,7 +123,7 @@
             },
             "Píškova": {
                 "distance_km": 0.39488000000000045,
-                "distance_min": 1.0654296875
+                "distance_min": 1.015356719493866
             }
         },
         "latitude": 50.04412000000001,
@@ -132,7 +132,7 @@
     "Avia Letňany": {
         "connections": {
             "Staré Letňany": {
-                "distance_km": 0.4839112499999999,
+                "distance_km": 0.4839099999999999,
                 "distance_min": 1.0
             },
             "Sídliště Letňany": {
@@ -205,11 +205,11 @@
             },
             "Novovysočanská": {
                 "distance_km": 0.6710200000000004,
-                "distance_min": 1.875
+                "distance_min": 1.671875
             },
             "Spojovací": {
-                "distance_km": 0.3923768749999994,
-                "distance_min": 1.2947998046875
+                "distance_km": 0.3923737499999996,
+                "distance_min": 1.2799901962280273
             }
         },
         "latitude": 50.0948,
@@ -257,7 +257,7 @@
             },
             "Mezi Hřbitovy": {
                 "distance_km": 0.5501499999999999,
-                "distance_min": 2.46875
+                "distance_min": 2.35546875
             }
         },
         "latitude": 50.08723,
@@ -350,7 +350,7 @@
     "Belárie": {
         "connections": {
             "Modřanská škola": {
-                "distance_km": 0.51465,
+                "distance_km": 0.5146500000000005,
                 "distance_min": 1.0
             },
             "Černý kůň": {
@@ -398,10 +398,6 @@
             "Pramenná": {
                 "distance_km": 1.4879799999999994,
                 "distance_min": 2.0
-            },
-            "U Tří svatých": {
-                "distance_km": 0.43733999999999895,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.007284999999996,
@@ -448,10 +444,6 @@
             "Starý Zličín": {
                 "distance_km": 0.9407200000000007,
                 "distance_min": 2.0
-            },
-            "Valtická": {
-                "distance_km": 0.4556399999999998,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.0640375,
@@ -475,7 +467,7 @@
         "connections": {
             "Chodovec": {
                 "distance_km": 0.5228799999999998,
-                "distance_min": 2.984375
+                "distance_min": 2.999755859375
             }
         },
         "latitude": 50.04258,
@@ -552,7 +544,7 @@
                 "distance_min": 1.0
             },
             "Výstaviště Letňany": {
-                "distance_km": 0.609065,
+                "distance_km": 0.60907,
                 "distance_min": 1.0
             }
         },
@@ -639,7 +631,7 @@
             },
             "Nádraží Veleslavín": {
                 "distance_km": 1.09272,
-                "distance_min": 1.7801106770833064
+                "distance_min": 1.8008855183919874
             },
             "Sušická": {
                 "distance_km": 0.81563,
@@ -707,7 +699,7 @@
         "connections": {
             "Brandýs n.L.-St.Bol.,Zahradní Město": {
                 "distance_km": 0.9385599999999998,
-                "distance_min": 3.875
+                "distance_min": 3.96875
             }
         },
         "latitude": 50.18109,
@@ -801,7 +793,7 @@
             },
             "Donovalská": {
                 "distance_km": 0.8661550000000007,
-                "distance_min": 2.4208984375
+                "distance_min": 2.21575927734375
             }
         },
         "latitude": 50.038610000000006,
@@ -819,7 +811,7 @@
             },
             "Jemnická": {
                 "distance_km": 0.5152800000000002,
-                "distance_min": 2.060546875
+                "distance_min": 2.0054969787597656
             },
             "Vyskočilova": {
                 "distance_km": 0.33807999999999927,
@@ -876,7 +868,7 @@
                 "distance_min": 1.0
             },
             "Šafránkova": {
-                "distance_km": 0.5556937499999999,
+                "distance_km": 0.5556899999999996,
                 "distance_min": 2.0
             }
         },
@@ -905,7 +897,7 @@
             },
             "Kačerov": {
                 "distance_km": 0.8173099999999991,
-                "distance_min": 1.75
+                "distance_min": 1.5
             },
             "Krčská": {
                 "distance_km": 0.4462575000000002,
@@ -917,11 +909,11 @@
             },
             "Pankrác": {
                 "distance_km": 0.9885900000000003,
-                "distance_min": 1.6666666666665448
+                "distance_min": 1.6666666666665861
             },
             "Poliklinika Budějovická": {
                 "distance_km": 0.2481,
-                "distance_min": 1.0498046875
+                "distance_min": 1.0024604797363281
             },
             "Zelená liška": {
                 "distance_km": 0.4282300000000001,
@@ -943,7 +935,7 @@
             },
             "Čertův vršek": {
                 "distance_km": 0.5687699999999998,
-                "distance_min": 2.5
+                "distance_min": 2.461181640625
             }
         },
         "latitude": 50.115717109375,
@@ -964,10 +956,6 @@
             "Buštěhrad,U Kahance": {
                 "distance_km": 0.7108149999999984,
                 "distance_min": 2.0
-            },
-            "Lidice,Památník": {
-                "distance_km": 1.2221599999999997,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.15429,
@@ -975,10 +963,6 @@
     },
     "Buštěhrad,U Kahance": {
         "connections": {
-            "Buštěhrad": {
-                "distance_km": 0.7069900000000002,
-                "distance_min": 2.0
-            },
             "Kladno,Meta": {
                 "distance_km": 3.9760099999999987,
                 "distance_min": 4.0
@@ -1022,7 +1006,7 @@
                 "distance_min": 1.0
             },
             "Masarykovo nádraží": {
-                "distance_km": 0.46531124999999973,
+                "distance_km": 0.4653124999999998,
                 "distance_min": 1.0
             },
             "Náměstí Republiky": {
@@ -1045,7 +1029,7 @@
         "connections": {
             "Bavorská": {
                 "distance_km": 0.6752399999999987,
-                "distance_min": 1.234375
+                "distance_min": 1.055908203125
             },
             "Slánská": {
                 "distance_km": 0.7985600000000002,
@@ -1081,11 +1065,11 @@
             },
             "Slavia": {
                 "distance_km": 0.5103300000000006,
-                "distance_min": 2.24609375
+                "distance_min": 2.0525054931640625
             },
             "Vlašimská": {
                 "distance_km": 0.5663800000000005,
-                "distance_min": 2.498046875
+                "distance_min": 2.367645263671875
             },
             "Želivského": {
                 "distance_km": 1.21495,
@@ -1097,10 +1081,6 @@
     },
     "Břetislavka": {
         "connections": {
-            "Pod Hájem": {
-                "distance_km": 0.6679200000000001,
-                "distance_min": 2.0
-            },
             "V Podbabě": {
                 "distance_km": 0.3779400000000006,
                 "distance_min": 2.0
@@ -1229,7 +1209,7 @@
             },
             "Opatov": {
                 "distance_km": 1.430019999999999,
-                "distance_min": 2.095947504043579
+                "distance_min": 2.1176195219595684
             },
             "Petýrkova": {
                 "distance_km": 0.685,
@@ -1241,7 +1221,7 @@
             },
             "Roztyly": {
                 "distance_km": 1.2222399999999998,
-                "distance_min": 1.9166666666665448
+                "distance_min": 1.9166666666665861
             }
         },
         "latitude": 50.0315115625,
@@ -1251,7 +1231,7 @@
         "connections": {
             "Benkova": {
                 "distance_km": 0.9354800000000001,
-                "distance_min": 2.060546875
+                "distance_min": 2.0037841796875
             },
             "Choceradská": {
                 "distance_km": 0.44079625000000056,
@@ -1263,7 +1243,7 @@
             },
             "Lihovar": {
                 "distance_km": 8.5307,
-                "distance_min": 9.0467529296875
+                "distance_min": 9.00207707285881
             },
             "Pod Chodovem": {
                 "distance_km": 0.5729800000000003,
@@ -1281,7 +1261,7 @@
             },
             "Bohdalecká": {
                 "distance_km": 0.33043000000000067,
-                "distance_min": 1.123046875
+                "distance_min": 1.0147590637207031
             },
             "Plynárna Michle": {
                 "distance_km": 0.27828500000000006,
@@ -1313,7 +1293,7 @@
         "connections": {
             "Hradčanská": {
                 "distance_km": 0.55274,
-                "distance_min": 1.76904296875
+                "distance_min": 1.6286306381225586
             },
             "Malostranská": {
                 "distance_km": 0.9737524999999999,
@@ -1403,7 +1383,7 @@
             },
             "Nádraží Modřany": {
                 "distance_km": 0.5552599999999998,
-                "distance_min": 1.4375
+                "distance_min": 1.3359375
             }
         },
         "latitude": 49.999547500000006,
@@ -1412,11 +1392,11 @@
     "Cukrovar Čakovice": {
         "connections": {
             "Nádraží Čakovice": {
-                "distance_km": 0.2796025000000002,
+                "distance_km": 0.2796050000000001,
                 "distance_min": 1.0
             },
             "Za Avií": {
-                "distance_km": 0.3281624999999999,
+                "distance_km": 0.32816,
                 "distance_min": 1.0
             }
         },
@@ -1451,15 +1431,15 @@
         "connections": {
             "Bořislavka": {
                 "distance_km": 2.1850900000000006,
-                "distance_min": 2.8102213541666936
+                "distance_min": 2.851771036783794
             },
             "Hradčanská": {
                 "distance_km": 0.8293900000000001,
-                "distance_min": 1.615890502929671
+                "distance_min": 1.631027321020773
             },
             "Kafkova": {
                 "distance_km": 0.58593,
-                "distance_min": 2.623046875
+                "distance_min": 2.0924034118652344
             },
             "Thákurova": {
                 "distance_km": 0.3466149999999999,
@@ -1498,8 +1478,8 @@
                 "distance_min": 1.0
             },
             "Skalka": {
-                "distance_km": 1.14298,
-                "distance_min": 2.461263020833263
+                "distance_km": 1.14254,
+                "distance_min": 2.5000000000000036
             },
             "Černokostelecká": {
                 "distance_km": 0.5840399999999999,
@@ -1539,7 +1519,7 @@
             },
             "Televizní věž": {
                 "distance_km": 0.6733799999999999,
-                "distance_min": 1.7109375
+                "distance_min": 1.272705078125
             }
         },
         "latitude": 50.07919,
@@ -1606,8 +1586,8 @@
                 "distance_min": 1.0
             },
             "Nádraží Veleslavín": {
-                "distance_km": 1.9122899999999987,
-                "distance_min": 3.75
+                "distance_km": 1.91228,
+                "distance_min": 4.0
             },
             "Vlastina": {
                 "distance_km": 0.5265499999999993,
@@ -1661,7 +1641,7 @@
         "connections": {
             "Bílenecké náměstí": {
                 "distance_km": 0.19720999999999966,
-                "distance_min": 0.875
+                "distance_min": 0.984375
             }
         },
         "latitude": 50.14965,
@@ -1713,7 +1693,7 @@
             },
             "U Tří svatých": {
                 "distance_km": 0.4366400000000006,
-                "distance_min": 1.875
+                "distance_min": 1.640625
             }
         },
         "latitude": 50.011015,
@@ -1723,7 +1703,7 @@
         "connections": {
             "Limuzská": {
                 "distance_km": 0.8146299999999993,
-                "distance_min": 2.123046875
+                "distance_min": 2.005970001220703
             },
             "Strašnická": {
                 "distance_km": 1.0406800000000005,
@@ -1799,16 +1779,6 @@
         "latitude": 50.151030000000006,
         "longitude": 14.437695
     },
-    "Dolní Měcholupy": {
-        "connections": {
-            "U Střediska": {
-                "distance_km": 0.4163299999999994,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.057055000000005,
-        "longitude": 14.56178
-    },
     "Dolní Počernice": {
         "connections": {
             "Nádraží Běchovice": {
@@ -1835,7 +1805,7 @@
             },
             "Skalka": {
                 "distance_km": 0.5066799999999994,
-                "distance_min": 1.24609375
+                "distance_min": 1.033111572265625
             }
         },
         "latitude": 50.072525,
@@ -1845,7 +1815,7 @@
         "connections": {
             "Brodského": {
                 "distance_km": 1.0127275000000004,
-                "distance_min": 2.3271484375
+                "distance_min": 2.0451583862304688
             },
             "K Obecním hájovnám": {
                 "distance_km": 0.98851,
@@ -1857,7 +1827,7 @@
             },
             "Přeštická": {
                 "distance_km": 1.05443,
-                "distance_min": 2.24609375
+                "distance_min": 2.0155105590820312
             },
             "Šperlova": {
                 "distance_km": 0.5783699999999998,
@@ -1927,21 +1897,11 @@
         "latitude": 50.01217,
         "longitude": 14.416985
     },
-    "Dubeč": {
-        "connections": {
-            "Škola Dubeč": {
-                "distance_km": 0.5851799999999994,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.06189125,
-        "longitude": 14.5966475
-    },
     "Dubeček": {
         "connections": {
             "K Dubečku": {
-                "distance_km": 1.2221199999999994,
-                "distance_min": 2.5
+                "distance_km": 1.2221199999999985,
+                "distance_min": 3.0
             },
             "Lázeňka": {
                 "distance_km": 0.5715000000000003,
@@ -1986,7 +1946,7 @@
                 "distance_min": 0.0
             },
             "Kublov": {
-                "distance_km": 0.7891006250000003,
+                "distance_km": 0.7891012500000003,
                 "distance_min": 2.0
             },
             "Lihovar": {
@@ -1994,7 +1954,7 @@
                 "distance_min": 6.0
             },
             "Přístaviště": {
-                "distance_km": 0.8997100000000006,
+                "distance_km": 0.8997100000000005,
                 "distance_min": 2.0
             },
             "U Školy": {
@@ -2022,11 +1982,11 @@
     "Dvořákova": {
         "connections": {
             "Sídliště Čimice": {
-                "distance_km": 0.41102999999999934,
+                "distance_km": 0.33265999999999973,
                 "distance_min": 1.0
             },
             "V Kratinách": {
-                "distance_km": 0.3364600000000001,
+                "distance_km": 0.33646,
                 "distance_min": 1.0
             }
         },
@@ -2059,13 +2019,9 @@
     },
     "Dědina": {
         "connections": {
-            "Divoká Šárka": {
-                "distance_km": 1.3252200000000016,
-                "distance_min": 2.0
-            },
             "K Letišti": {
                 "distance_km": 0.8948200000000002,
-                "distance_min": 2.984375
+                "distance_min": 2.997802734375
             },
             "Makotřasy,Rozcestí": {
                 "distance_km": 9.46245,
@@ -2245,7 +2201,7 @@
         "connections": {
             "Jiřího z Poděbrad": {
                 "distance_km": 0.8635300000000001,
-                "distance_min": 1.527506510416642
+                "distance_min": 1.5495834350586553
             },
             "Olšanské hřbitovy": {
                 "distance_km": 0.34940000000000104,
@@ -2265,7 +2221,7 @@
             },
             "Želivského": {
                 "distance_km": 0.9465599999999998,
-                "distance_min": 1.7825647989908557
+                "distance_min": 1.8133190025885484
             }
         },
         "latitude": 50.078280625000005,
@@ -2299,7 +2255,7 @@
             },
             "Vltavská": {
                 "distance_km": 1.1900700000000004,
-                "distance_min": 1.8333333333332864
+                "distance_min": 1.8333333333332718
             }
         },
         "latitude": 50.0902042211914,
@@ -2407,20 +2363,6 @@
         "latitude": 50.10744,
         "longitude": 14.40409
     },
-    "Habrová": {
-        "connections": {
-            "Malešický park": {
-                "distance_km": 0.6025999999999998,
-                "distance_min": 2.0
-            },
-            "Vackov": {
-                "distance_km": 0.43313999999999997,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.087942500000004,
-        "longitude": 14.490735
-    },
     "Hadovitá": {
         "connections": {
             "Jemnická": {
@@ -2451,10 +2393,6 @@
     },
     "Halenkovská": {
         "connections": {
-            "Starý Zličín": {
-                "distance_km": 0.4719899999999999,
-                "distance_min": 1.0
-            },
             "Strojírenská": {
                 "distance_km": 0.4557899999999999,
                 "distance_min": 1.0
@@ -2527,7 +2465,7 @@
             },
             "Vajgarská": {
                 "distance_km": 0.48053999999999963,
-                "distance_min": 1.4375
+                "distance_min": 1.2421875
             },
             "Žárská": {
                 "distance_km": 0.41147000000000045,
@@ -2587,7 +2525,7 @@
         "connections": {
             "Florenc": {
                 "distance_km": 0.8201099999999997,
-                "distance_min": 1.8333333333334552
+                "distance_min": 1.8333333333334139
             },
             "Husinecká": {
                 "distance_km": 0.7375450000000002,
@@ -2595,7 +2533,7 @@
             },
             "Jindřišská": {
                 "distance_km": 0.3869399999999992,
-                "distance_min": 1.9920654296875
+                "distance_min": 1.9998778700828552
             },
             "Masarykovo nádraží": {
                 "distance_km": 0.5122899999999999,
@@ -2603,7 +2541,7 @@
             },
             "Muzeum": {
                 "distance_km": 0.42459000000000024,
-                "distance_min": 1.3333333333333997
+                "distance_min": 1.333333333333318
             }
         },
         "latitude": 50.08344390625,
@@ -2709,7 +2647,7 @@
         "connections": {
             "Na Křečku": {
                 "distance_km": 0.6837700000000009,
-                "distance_min": 1.375
+                "distance_min": 1.1875
             },
             "Na Vartě": {
                 "distance_km": 0.4155899999999999,
@@ -2723,7 +2661,7 @@
         "connections": {
             "Holubice,Kozinec": {
                 "distance_km": 1.17574,
-                "distance_min": 2.0625
+                "distance_min": 2.015625
             }
         },
         "latitude": 50.201675,
@@ -2757,7 +2695,7 @@
         "connections": {
             "Náměstí Bratří Synků": {
                 "distance_km": 0.5524299999999998,
-                "distance_min": 2.5234375
+                "distance_min": 2.376861572265625
             },
             "Pod Jezerkou": {
                 "distance_km": 0.6052299999999997,
@@ -2780,7 +2718,7 @@
     "Horoměřice": {
         "connections": {
             "Horoměřice,V Lipkách": {
-                "distance_km": 0.55874,
+                "distance_km": 0.5587400000000002,
                 "distance_min": 1.0
             },
             "Horoměřice,Švejkova": {
@@ -2800,10 +2738,6 @@
             "Horoměřice,V Lipkách": {
                 "distance_km": 1.2848199999999999,
                 "distance_min": 4.0
-            },
-            "Únětice,Na Parcelách": {
-                "distance_km": 1.4748099999999997,
-                "distance_min": 3.0
             }
         },
         "latitude": 50.141465,
@@ -2814,10 +2748,6 @@
             "Horoměřice": {
                 "distance_km": 0.6315500000000001,
                 "distance_min": 1.25
-            },
-            "Horoměřice,Lidl": {
-                "distance_km": 1.1396200000000007,
-                "distance_min": 2.0
             },
             "Horoměřice,Velká Brána": {
                 "distance_km": 0.15205999999999964,
@@ -2843,10 +2773,6 @@
     },
     "Horoměřice,Švejkova": {
         "connections": {
-            "Horoměřice": {
-                "distance_km": 0.7184300000000006,
-                "distance_min": 2.0
-            },
             "Lysolaje": {
                 "distance_km": 1.6533800000000003,
                 "distance_min": 3.0
@@ -2875,7 +2801,7 @@
             },
             "Newtonova": {
                 "distance_km": 1.4138399999999998,
-                "distance_min": 2.96875
+                "distance_min": 2.998046875
             }
         },
         "latitude": 50.031835,
@@ -2913,7 +2839,7 @@
         "connections": {
             "Na Groši": {
                 "distance_km": 0.5327500000000001,
-                "distance_min": 1.875
+                "distance_min": 1.609375
             },
             "Obchodní centrum Hostivař": {
                 "distance_km": 0.7092899999999993,
@@ -2932,10 +2858,6 @@
             "Hostivice,Na Pískách": {
                 "distance_km": 0.8322600000000002,
                 "distance_min": 3.0
-            },
-            "Hostivice,Stadion": {
-                "distance_km": 0.39351999999999965,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.08264625,
@@ -2946,10 +2868,6 @@
             "Hostivice,Sportovců": {
                 "distance_km": 0.33786000000000005,
                 "distance_min": 1.0
-            },
-            "Hostivice,Ve Vilkách": {
-                "distance_km": 0.7117300000000002,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.08259375,
@@ -2957,10 +2875,6 @@
     },
     "Hostivice,Litovice": {
         "connections": {
-            "Hostivice,Sportovců": {
-                "distance_km": 0.26411999999999924,
-                "distance_min": 1.0
-            },
             "Hostivice,Stadion": {
                 "distance_km": 0.26405999999999996,
                 "distance_min": 1.0
@@ -2971,10 +2885,6 @@
     },
     "Hostivice,Na Pískách": {
         "connections": {
-            "Hostivice": {
-                "distance_km": 0.7315300000000002,
-                "distance_min": 2.0
-            },
             "Sobín": {
                 "distance_km": 1.01871,
                 "distance_min": 2.0
@@ -2985,10 +2895,6 @@
     },
     "Hostivice,Sportovců": {
         "connections": {
-            "Hostivice,Jeneček": {
-                "distance_km": 0.4520900000000001,
-                "distance_min": 1.0
-            },
             "Hostivice,Litovice": {
                 "distance_km": 0.36836,
                 "distance_min": 1.0
@@ -3001,10 +2907,6 @@
         "connections": {
             "Hostivice": {
                 "distance_km": 0.4018099999999998,
-                "distance_min": 1.0
-            },
-            "Hostivice,Litovice": {
-                "distance_km": 0.36520000000000064,
                 "distance_min": 1.0
             }
         },
@@ -3071,7 +2973,7 @@
             },
             "Dejvická": {
                 "distance_km": 0.8291050000000002,
-                "distance_min": 1.833333333333258
+                "distance_min": 1.8333333333333641
             },
             "Malostranská": {
                 "distance_km": 0.8203499999999995,
@@ -3175,7 +3077,7 @@
         "connections": {
             "Podbělohorská": {
                 "distance_km": 0.7689649999999997,
-                "distance_min": 1.7109375
+                "distance_min": 1.30908203125
             },
             "Stadion Strahov": {
                 "distance_km": 0.5966300000000002,
@@ -3205,7 +3107,7 @@
             },
             "Opatov": {
                 "distance_km": 1.31637,
-                "distance_min": 1.8333333333334692
+                "distance_min": 1.833333333333421
             }
         },
         "latitude": 50.03069529296875,
@@ -3219,7 +3121,7 @@
             },
             "Geologická": {
                 "distance_km": 0.56741,
-                "distance_min": 1.123046875
+                "distance_min": 1.0116310119628906
             }
         },
         "latitude": 50.034375,
@@ -3279,7 +3181,7 @@
         "connections": {
             "Bruselská": {
                 "distance_km": 0.35135000000000005,
-                "distance_min": 1.4921875
+                "distance_min": 1.4998779296875
             },
             "Dětská nemocnice Karlov": {
                 "distance_km": 0.51276,
@@ -3290,12 +3192,12 @@
                 "distance_min": 1.0
             },
             "Náměstí Míru": {
-                "distance_km": 0.397194140625,
-                "distance_min": 1.48748779296875
+                "distance_km": 0.3971945312500001,
+                "distance_min": 1.4570074081420898
             },
             "Štěpánská": {
-                "distance_km": 0.58511,
-                "distance_min": 2.942626953125
+                "distance_km": 0.5851100000000002,
+                "distance_min": 2.857105255126953
             }
         },
         "latitude": 50.075060703125,
@@ -3305,11 +3207,11 @@
         "connections": {
             "Muzeum": {
                 "distance_km": 0.6889800000000008,
-                "distance_min": 1.6666666666667136
+                "distance_min": 1.6666666666667282
             },
             "Vyšehrad": {
                 "distance_km": 1.24554,
-                "distance_min": 1.8333333333333997
+                "distance_min": 1.833333333333318
             }
         },
         "latitude": 50.07433,
@@ -3327,10 +3229,6 @@
     },
     "IKEM": {
         "connections": {
-            "Nemocnice Krč": {
-                "distance_km": 0.97898,
-                "distance_min": 2.0
-            },
             "U Tří svatých": {
                 "distance_km": 1.53628,
                 "distance_min": 3.0
@@ -3345,7 +3243,7 @@
             },
             "Ústavy Akademie věd": {
                 "distance_km": 0.57125,
-                "distance_min": 1.3046875
+                "distance_min": 1.0380859375
             }
         },
         "latitude": 50.0222,
@@ -3373,7 +3271,7 @@
         "connections": {
             "Křižíkova": {
                 "distance_km": 0.9715399999999992,
-                "distance_min": 1.666666666666515
+                "distance_min": 1.6666666666665242
             },
             "Palmovka": {
                 "distance_km": 1.1698999999999984,
@@ -3435,10 +3333,6 @@
     },
     "Jalodvorská": {
         "connections": {
-            "Tempo": {
-                "distance_km": 0.8688800000000001,
-                "distance_min": 2.0
-            },
             "U Zvoničky": {
                 "distance_km": 0.4762200000000001,
                 "distance_min": 1.0
@@ -3450,7 +3344,7 @@
     "Jana Masaryka": {
         "connections": {
             "Krymská": {
-                "distance_km": 0.47815874999999997,
+                "distance_km": 0.4781574999999998,
                 "distance_min": 1.0
             },
             "Náměstí Míru": {
@@ -3465,7 +3359,7 @@
         "connections": {
             "Kuchyňka": {
                 "distance_km": 0.8465799999999999,
-                "distance_min": 1.5
+                "distance_min": 1.4931640625
             },
             "Nádraží Holešovice": {
                 "distance_km": 0.4306599999999996,
@@ -3537,10 +3431,6 @@
     },
     "Jesenice": {
         "connections": {
-            "Jesenice,Bytovky": {
-                "distance_km": 0.5124199999999988,
-                "distance_min": 2.0
-            },
             "Sulice,Hlubočinka,Obchodní centrum": {
                 "distance_km": 4.43167,
                 "distance_min": 4.0
@@ -3554,10 +3444,6 @@
             "Jesenice": {
                 "distance_km": 0.50136,
                 "distance_min": 2.0
-            },
-            "Vestec,Šátalka": {
-                "distance_km": 1.074390000000001,
-                "distance_min": 1.0
             }
         },
         "latitude": 49.970304999999996,
@@ -3575,7 +3461,7 @@
             },
             "V Korytech": {
                 "distance_km": 0.5487299999999999,
-                "distance_min": 1.123046875
+                "distance_min": 1.0134391784667969
             },
             "Želivecká": {
                 "distance_km": 0.5282400000000003,
@@ -3624,7 +3510,7 @@
                 "distance_min": 2.0
             },
             "Václavské náměstí": {
-                "distance_km": 0.5176803124999997,
+                "distance_km": 0.5176806249999999,
                 "distance_min": 2.0
             }
         },
@@ -3635,7 +3521,7 @@
         "connections": {
             "Nové Butovice": {
                 "distance_km": 1.3464900000000029,
-                "distance_min": 2.1666666666667425
+                "distance_min": 2.1666666666667336
             },
             "Radlická": {
                 "distance_km": 1.3925099999999997,
@@ -3667,7 +3553,7 @@
         "connections": {
             "Kyje": {
                 "distance_km": 0.46176999999999957,
-                "distance_min": 1.4375
+                "distance_min": 1.2890625
             },
             "Pávovské náměstí": {
                 "distance_km": 0.4184000000000001,
@@ -3681,11 +3567,11 @@
         "connections": {
             "Arbesovo náměstí": {
                 "distance_km": 0.6480899999999999,
-                "distance_min": 2.123046875
+                "distance_min": 2.0107345581054688
             },
             "Karlovo náměstí": {
                 "distance_km": 0.39907000000000004,
-                "distance_min": 1.24609375
+                "distance_min": 1.0299530029296875
             },
             "Myslíkova": {
                 "distance_km": 0.47459000000000007,
@@ -3737,7 +3623,7 @@
             },
             "Psohlavců": {
                 "distance_km": 0.4669800000000004,
-                "distance_min": 1.123046875
+                "distance_min": 1.0056076049804688
             }
         },
         "latitude": 50.02448,
@@ -3761,11 +3647,11 @@
         "connections": {
             "Flora": {
                 "distance_km": 0.8608000000000011,
-                "distance_min": 1.615890502929671
+                "distance_min": 1.6310273210207713
             },
             "Náměstí Míru": {
                 "distance_km": 0.8561449999999997,
-                "distance_min": 1.5275065104167163
+                "distance_min": 1.5495834350585773
             },
             "Radhošťská": {
                 "distance_km": 0.6464399999999992,
@@ -3855,25 +3741,11 @@
         "latitude": 50.026635,
         "longitude": 14.430115
     },
-    "Jílové u Prahy,Náměstí": {
-        "connections": {
-            "Jílové u Prahy,Pražská": {
-                "distance_km": 0.43872,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 49.8950325,
-        "longitude": 14.493089999999999
-    },
     "Jílové u Prahy,Pražská": {
         "connections": {
             "Jílové u Prahy,Náměstí": {
                 "distance_km": 0.3656399999999991,
                 "distance_min": 1.0
-            },
-            "Jílové u Prahy,Radlík": {
-                "distance_km": 1.16203,
-                "distance_min": 2.0
             }
         },
         "latitude": 49.89864,
@@ -3883,10 +3755,6 @@
         "connections": {
             "Jílové u Prahy,Pražská": {
                 "distance_km": 1.22748,
-                "distance_min": 2.0
-            },
-            "Jílové u Prahy,Rozc.Radlík": {
-                "distance_km": 0.8564300000000002,
                 "distance_min": 2.0
             }
         },
@@ -3898,10 +3766,6 @@
             "Jílové u Prahy,Radlík": {
                 "distance_km": 0.6907800000000002,
                 "distance_min": 2.0
-            },
-            "Sulice": {
-                "distance_km": 4.63711,
-                "distance_min": 7.0
             }
         },
         "latitude": 49.91245,
@@ -3937,10 +3801,6 @@
     },
     "K Dubečku": {
         "connections": {
-            "Dolní Měcholupy": {
-                "distance_km": 0.32172,
-                "distance_min": 1.0
-            },
             "Dubeček": {
                 "distance_km": 1.1803100000000004,
                 "distance_min": 3.0
@@ -4010,8 +3870,8 @@
                 "distance_min": 2.0
             },
             "Zličín": {
-                "distance_km": 6.883209999999998,
-                "distance_min": 9.0
+                "distance_km": 6.739279999999999,
+                "distance_min": 10.0
             }
         },
         "latitude": 50.096195,
@@ -4050,10 +3910,6 @@
             "Třebonice": {
                 "distance_km": 1.9682300000000001,
                 "distance_min": 4.0
-            },
-            "Ve Výrech": {
-                "distance_km": 0.40664999999999996,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.036685,
@@ -4072,12 +3928,12 @@
     "K Žižkovu": {
         "connections": {
             "Balkán": {
-                "distance_km": 0.7965700000000006,
+                "distance_km": 0.7965700000000002,
                 "distance_min": 2.0
             },
             "Nádraží Libeň": {
                 "distance_km": 0.71557,
-                "distance_min": 2.427978515625
+                "distance_min": 2.1440391540527344
             },
             "Skloněná": {
                 "distance_km": 0.6055399999999995,
@@ -4105,7 +3961,7 @@
         "connections": {
             "Barvy a laky": {
                 "distance_km": 0.2955350000000001,
-                "distance_min": 0.875
+                "distance_min": 0.484375
             },
             "Sklářská": {
                 "distance_km": 0.47929500000000047,
@@ -4147,7 +4003,7 @@
             },
             "Strossmayerovo náměstí": {
                 "distance_km": 0.2684856249999996,
-                "distance_min": 1.907470703125
+                "distance_min": 1.6598424911499023
             }
         },
         "latitude": 50.099595,
@@ -4175,7 +4031,7 @@
         "connections": {
             "Breitcetlova": {
                 "distance_km": 0.5093049999999999,
-                "distance_min": 1.9375
+                "distance_min": 1.73046875
             },
             "Doležalova": {
                 "distance_km": 0.4744400000000004,
@@ -4202,7 +4058,7 @@
                 "distance_min": 2.0
             },
             "Moráň": {
-                "distance_km": 0.24017000000000044,
+                "distance_km": 0.24017000000000088,
                 "distance_min": 2.0
             },
             "Novoměstská radnice": {
@@ -4271,7 +4127,7 @@
         "connections": {
             "I. P. Pavlova": {
                 "distance_km": 0.3567,
-                "distance_min": 2.9375
+                "distance_min": 2.99609375
             }
         },
         "latitude": 50.07434,
@@ -4280,16 +4136,12 @@
     "Katovická": {
         "connections": {
             "Odra": {
-                "distance_km": 0.4345325,
+                "distance_km": 0.43453499999999945,
                 "distance_min": 1.0
             },
             "Podhajská pole": {
                 "distance_km": 0.5298199999999998,
                 "distance_min": 2.0
-            },
-            "Řepínská": {
-                "distance_km": 0.29979,
-                "distance_min": 1.75
             }
         },
         "latitude": 50.13211,
@@ -4303,7 +4155,7 @@
             },
             "Klamovka": {
                 "distance_km": 0.5200450000000003,
-                "distance_min": 1.9921875
+                "distance_min": 1.999755859375
             },
             "Kotlářka": {
                 "distance_km": 0.82036,
@@ -4371,7 +4223,7 @@
             },
             "Roztyly": {
                 "distance_km": 1.3447700000000005,
-                "distance_min": 2.001953363418579
+                "distance_min": 2.062684059186722
             },
             "U Labutě": {
                 "distance_km": 0.6947150000000002,
@@ -4508,11 +4360,11 @@
     "Ke Stadionu": {
         "connections": {
             "Nádraží Čakovice": {
-                "distance_km": 0.5389499999999999,
-                "distance_min": 0.5390625
+                "distance_km": 0.53895,
+                "distance_min": 0.037109375
             },
             "Náměstí Jiřího Berana": {
-                "distance_km": 0.48511499999999996,
+                "distance_km": 0.4851099999999997,
                 "distance_min": 1.0
             },
             "Oderská": {
@@ -4593,7 +4445,7 @@
         "connections": {
             "Kladno,Ostrovec": {
                 "distance_km": 0.41666000000000025,
-                "distance_min": 1.25
+                "distance_min": 1.0625
             }
         },
         "latitude": 50.149185,
@@ -4601,10 +4453,6 @@
     },
     "Kladno,Americká": {
         "connections": {
-            "Kladno,Růžové pole": {
-                "distance_km": 0.4642200000000001,
-                "distance_min": 1.0
-            },
             "Kladno,Tesco": {
                 "distance_km": 0.3499399999999999,
                 "distance_min": 1.0
@@ -4617,29 +4465,11 @@
         "latitude": 50.12717,
         "longitude": 14.123384999999999
     },
-    "Kladno,Aquapark": {
-        "connections": {
-            "Kladno,Stadión F.Kloze": {
-                "distance_km": 0.22283,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.13688,
-        "longitude": 14.089144999999998
-    },
     "Kladno,Autobusové nádraží": {
         "connections": {
             "Kladno,Divadlo": {
-                "distance_km": 0.2965949999999997,
-                "distance_min": 1.4375
-            },
-            "Kladno,Nám.Svobody": {
-                "distance_km": 1.1925999999999997,
-                "distance_min": 2.0
-            },
-            "Kladno,U Hřbitovů": {
-                "distance_km": 0.5793900000000001,
-                "distance_min": 2.0
+                "distance_km": 0.2965899999999997,
+                "distance_min": 0.9921875
             }
         },
         "latitude": 50.14714999511719,
@@ -4668,7 +4498,7 @@
     "Kladno,Central": {
         "connections": {
             "Kladno,Divadlo": {
-                "distance_km": 0.3428249999999998,
+                "distance_km": 0.3428199999999997,
                 "distance_min": 1.0
             },
             "Kladno,Gymnasium": {
@@ -4681,39 +4511,17 @@
     },
     "Kladno,Divadlo": {
         "connections": {
-            "Kladno,Autobusové nádraží": {
-                "distance_km": 0.3194,
-                "distance_min": 2.0
-            },
             "Kladno,Central": {
                 "distance_km": 0.38251999999999997,
                 "distance_min": 1.0
             },
-            "Kladno,J.Hory": {
-                "distance_km": 0.4329900000000002,
-                "distance_min": 2.0
-            },
             "Kladno,U Bondyho": {
                 "distance_km": 0.32723999999999975,
-                "distance_min": 2.0
+                "distance_min": 1.962890625
             }
         },
         "latitude": 50.144945,
         "longitude": 14.10633
-    },
-    "Kladno,Dlouhá": {
-        "connections": {
-            "Kladno,J.Hory": {
-                "distance_km": 0.5732100000000004,
-                "distance_min": 2.0
-            },
-            "Kladno,U Meisnerů": {
-                "distance_km": 0.5334199999999996,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.140515,
-        "longitude": 14.112185
     },
     "Kladno,Energie": {
         "connections": {
@@ -4728,16 +4536,12 @@
     "Kladno,Gymnasium": {
         "connections": {
             "Kladno,Central": {
-                "distance_km": 0.5051200000000001,
-                "distance_min": 1.5
+                "distance_km": 0.5051200000000002,
+                "distance_min": 1.0
             },
             "Kladno,Nám.Svobody": {
                 "distance_km": 0.5452500000000002,
                 "distance_min": 2.0
-            },
-            "Kladno,Sítná": {
-                "distance_km": 0.8151999999999999,
-                "distance_min": 3.0
             }
         },
         "latitude": 50.142125,
@@ -4745,10 +4549,6 @@
     },
     "Kladno,Havlíčkovo náměstí": {
         "connections": {
-            "Kladno,Hnidousy": {
-                "distance_km": 0.6219099999999997,
-                "distance_min": 1.0
-            },
             "Kladno,Na Kopci": {
                 "distance_km": 0.83592,
                 "distance_min": 2.0
@@ -4767,39 +4567,11 @@
         "latitude": 50.17018,
         "longitude": 14.1124075
     },
-    "Kladno,Holandská": {
-        "connections": {
-            "Kladno,Nádraží": {
-                "distance_km": 0.59064,
-                "distance_min": 2.0
-            },
-            "Kladno,Okrsek 2": {
-                "distance_km": 0.30777000000000054,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.128564999999995,
-        "longitude": 14.119115
-    },
-    "Kladno,J.Hory": {
-        "connections": {
-            "Kladno,Divadlo": {
-                "distance_km": 0.43843999999999994,
-                "distance_min": 2.0
-            },
-            "Kladno,Dlouhá": {
-                "distance_km": 0.49273999999999996,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.14195,
-        "longitude": 14.106615000000001
-    },
     "Kladno,J.Kociána": {
         "connections": {
             "Kladno,Sítná": {
                 "distance_km": 0.48644,
-                "distance_min": 1.75
+                "distance_min": 1.9375
             }
         },
         "latitude": 50.13369,
@@ -4817,10 +4589,6 @@
     },
     "Kladno,Meta": {
         "connections": {
-            "Buštěhrad,U Kahance": {
-                "distance_km": 4.03156,
-                "distance_min": 5.0
-            },
             "Kladno,Okrsek 4": {
                 "distance_km": 0.5648000000000017,
                 "distance_min": 1.0
@@ -4831,10 +4599,6 @@
     },
     "Kladno,Na Kopci": {
         "connections": {
-            "Kladno,Havlíčkovo náměstí": {
-                "distance_km": 0.7651700000000003,
-                "distance_min": 2.0
-            },
             "Kladno,U Hřbitovů": {
                 "distance_km": 1.35578,
                 "distance_min": 1.0
@@ -4842,20 +4606,6 @@
         },
         "latitude": 50.16217,
         "longitude": 14.113555
-    },
-    "Kladno,Na Kovárně": {
-        "connections": {
-            "Kladno,Nádraží": {
-                "distance_km": 0.5008999999999997,
-                "distance_min": 2.0
-            },
-            "Kladno,Svépomoc": {
-                "distance_km": 0.36854999999999993,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.131465,
-        "longitude": 14.1109825
     },
     "Kladno,Na Slovance": {
         "connections": {
@@ -4871,51 +4621,15 @@
         "latitude": 50.14035,
         "longitude": 14.12063
     },
-    "Kladno,Nemocnice": {
-        "connections": {
-            "Kladno,Nám.Svobody": {
-                "distance_km": 0.6370800000000001,
-                "distance_min": 1.0
-            },
-            "Kladno,Stadión F.Kloze": {
-                "distance_km": 0.5877799999999995,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.14185,
-        "longitude": 14.091370000000001
-    },
-    "Kladno,Nádraží": {
-        "connections": {
-            "Kladno,Holandská": {
-                "distance_km": 0.5283199999999999,
-                "distance_min": 1.375
-            },
-            "Kladno,Na Kovárně": {
-                "distance_km": 0.6183100000000001,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.128195000000005,
-        "longitude": 14.114004999999999
-    },
     "Kladno,Nám.Svobody": {
         "connections": {
-            "Kladno,Autobusové nádraží": {
-                "distance_km": 1.2046000000000001,
-                "distance_min": 2.0
-            },
             "Kladno,Gymnasium": {
-                "distance_km": 0.6799200000000001,
-                "distance_min": 2.875
-            },
-            "Kladno,Nemocnice": {
-                "distance_km": 0.44174000000000024,
-                "distance_min": 1.0
+                "distance_km": 0.5711399999999998,
+                "distance_min": 1.87109375
             },
             "Kladno,U Nemocnice": {
                 "distance_km": 0.5159900000000022,
-                "distance_min": 1.875
+                "distance_min": 1.984375
             }
         },
         "latitude": 50.14503427734375,
@@ -4931,36 +4645,8 @@
         "latitude": 50.13227,
         "longitude": 14.13903
     },
-    "Kladno,Okrsek 0": {
-        "connections": {
-            "Kladno,Wednesbury": {
-                "distance_km": 0.38466,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.13485,
-        "longitude": 14.13002
-    },
-    "Kladno,Okrsek 2": {
-        "connections": {
-            "Kladno,Holandská": {
-                "distance_km": 0.26027,
-                "distance_min": 2.0
-            },
-            "Kladno,Pražská křiž.": {
-                "distance_km": 0.7981600000000002,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.13024,
-        "longitude": 14.119959999999999
-    },
     "Kladno,Okrsek 4": {
         "connections": {
-            "Kladno,Meta": {
-                "distance_km": 0.3464999999999998,
-                "distance_min": 1.0
-            },
             "Kladno,OAZA": {
                 "distance_km": 0.06315000000000026,
                 "distance_min": 1.0
@@ -4977,7 +4663,7 @@
         "connections": {
             "Kladno,V.Lanny": {
                 "distance_km": 0.4185099999999995,
-                "distance_min": 1.75
+                "distance_min": 1.9375
             }
         },
         "latitude": 50.150625000000005,
@@ -4985,16 +4671,8 @@
     },
     "Kladno,Pražská křiž.": {
         "connections": {
-            "Buštěhrad,U Kahance": {
-                "distance_km": 4.453610000000001,
-                "distance_min": 6.0
-            },
             "Kladno,Na Slovance": {
                 "distance_km": 0.6131299999999997,
-                "distance_min": 2.0
-            },
-            "Kladno,Okrsek 0": {
-                "distance_km": 0.5862499999999997,
                 "distance_min": 2.0
             },
             "Kladno,U Hvězdy": {
@@ -5003,7 +4681,7 @@
             },
             "Kladno,U Tržnice": {
                 "distance_km": 0.42434999999999956,
-                "distance_min": 1.25
+                "distance_min": 1.03125
             }
         },
         "latitude": 50.13611125,
@@ -5017,7 +4695,7 @@
             },
             "Kladno,Okrsek 4": {
                 "distance_km": 0.77996,
-                "distance_min": 1.5
+                "distance_min": 1.0
             },
             "Kladno,Zdrav.stř.": {
                 "distance_km": 0.43616,
@@ -5026,34 +4704,6 @@
         },
         "latitude": 50.128275,
         "longitude": 14.12912
-    },
-    "Kladno,Stadión F.Kloze": {
-        "connections": {
-            "Kladno,Aquapark": {
-                "distance_km": 0.1792600000000002,
-                "distance_min": 1.0
-            },
-            "Kladno,Nemocnice": {
-                "distance_km": 0.32706,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.138425,
-        "longitude": 14.090164999999999
-    },
-    "Kladno,Svépomoc": {
-        "connections": {
-            "Kladno,Na Kovárně": {
-                "distance_km": 1.3176899999999998,
-                "distance_min": 2.5
-            },
-            "Kladno,U Meisnerů": {
-                "distance_km": 0.49861999999999984,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.136044999999996,
-        "longitude": 14.112315
     },
     "Kladno,Sítná": {
         "connections": {
@@ -5064,14 +4714,6 @@
             "Kladno,Gymnasium": {
                 "distance_km": 0.8235950000000027,
                 "distance_min": 2.0
-            },
-            "Kladno,U Hvězdy": {
-                "distance_km": 0.79738,
-                "distance_min": 3.0
-            },
-            "Kladno,U Kauflandu": {
-                "distance_km": 1.1465999999999998,
-                "distance_min": 3.0
             }
         },
         "latitude": 50.136621250000005,
@@ -5091,7 +4733,7 @@
         "connections": {
             "Kladno,Divadlo": {
                 "distance_km": 0.3004199999999999,
-                "distance_min": 1.875
+                "distance_min": 1.96875
             },
             "Kladno,Školská": {
                 "distance_km": 0.5283200000000008,
@@ -5103,13 +4745,9 @@
     },
     "Kladno,U Hvězdy": {
         "connections": {
-            "Kladno,Pražská křiž.": {
-                "distance_km": 0.9866799999999998,
-                "distance_min": 2.0
-            },
             "Kladno,Sítná": {
                 "distance_km": 0.8618499999999969,
-                "distance_min": 2.875
+                "distance_min": 2.984375
             }
         },
         "latitude": 50.1328275,
@@ -5120,10 +4758,6 @@
             "Kladno,Autobusové nádraží": {
                 "distance_km": 0.5573600000000001,
                 "distance_min": 2.0
-            },
-            "Kladno,Na Kopci": {
-                "distance_km": 1.2809599999999999,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.152074999999996,
@@ -5131,10 +4765,6 @@
     },
     "Kladno,U Kauflandu": {
         "connections": {
-            "Kladno,Americká": {
-                "distance_km": 0.6350100000000003,
-                "distance_min": 2.0
-            },
             "Kladno,J.Kociána": {
                 "distance_km": 0.8036700000000001,
                 "distance_min": 2.0
@@ -5151,33 +4781,15 @@
         "connections": {
             "Kladno,Vašíčkova": {
                 "distance_km": 0.6235450000000009,
-                "distance_min": 1.0625
+                "distance_min": 1.015625
             },
             "Kladno,Vítězná": {
                 "distance_km": 0.3440400000000001,
                 "distance_min": 1.0
-            },
-            "Kladno,Žel.zast.město": {
-                "distance_km": 0.7468400000000001,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.140715,
         "longitude": 14.0708925
-    },
-    "Kladno,U Meisnerů": {
-        "connections": {
-            "Kladno,Dlouhá": {
-                "distance_km": 0.4732400000000001,
-                "distance_min": 1.0
-            },
-            "Kladno,Svépomoc": {
-                "distance_km": 0.5263800000000005,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.13975,
-        "longitude": 14.116534999999999
     },
     "Kladno,U Nemocnice": {
         "connections": {
@@ -5221,7 +4833,7 @@
         "connections": {
             "Kladno,U Kostela": {
                 "distance_km": 0.2235800000000001,
-                "distance_min": 1.875
+                "distance_min": 1.46875
             },
             "Kladno,Žel.zast.město": {
                 "distance_km": 0.44282,
@@ -5231,25 +4843,15 @@
         "latitude": 50.140609999999995,
         "longitude": 14.075154999999999
     },
-    "Kladno,Wednesbury": {
-        "connections": {
-            "Kladno,Okrsek 2": {
-                "distance_km": 0.7222599999999999,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.13302,
-        "longitude": 14.12698
-    },
     "Kladno,Zdrav.stř.": {
         "connections": {
             "Kladno,Pražská křiž.": {
                 "distance_km": 0.57881,
-                "distance_min": 2.0
+                "distance_min": 1.484375
             },
             "Kladno,Růžové pole": {
                 "distance_km": 0.4107799999999999,
-                "distance_min": 1.75
+                "distance_min": 1.84375
             }
         },
         "latitude": 50.12962,
@@ -5263,7 +4865,7 @@
             },
             "Kladno,U Bondyho": {
                 "distance_km": 0.5770200000000001,
-                "distance_min": 2.0
+                "distance_min": 1.484375
             }
         },
         "latitude": 50.142795,
@@ -5273,15 +4875,15 @@
         "connections": {
             "Kladno,L.Zápotockého": {
                 "distance_km": 0.4298700000000002,
-                "distance_min": 1.75
+                "distance_min": 1.9375
             },
             "Kladno,U Kostela": {
                 "distance_km": 0.7541700000000002,
-                "distance_min": 1.875
+                "distance_min": 1.984375
             },
             "Kladno,U Nemocnice": {
                 "distance_km": 0.53623,
-                "distance_min": 2.0
+                "distance_min": 1.962890625
             },
             "Kladno,Vítězná": {
                 "distance_km": 0.5305900000000001,
@@ -5295,7 +4897,7 @@
         "connections": {
             "Anděl": {
                 "distance_km": 1.828835,
-                "distance_min": 3.9921875
+                "distance_min": 3.999755859375
             },
             "Jinonická": {
                 "distance_km": 0.3879199999999994,
@@ -5329,7 +4931,7 @@
             },
             "Pražského povstání": {
                 "distance_km": 0.4838800000000001,
-                "distance_min": 2.123046875
+                "distance_min": 2.0036582946777344
             }
         },
         "latitude": 50.057,
@@ -5381,7 +4983,7 @@
         "connections": {
             "Nemocnice Krč": {
                 "distance_km": 0.3177949999999998,
-                "distance_min": 1.1640625
+                "distance_min": 1.05126953125
             },
             "Ústav mateřství": {
                 "distance_km": 0.4079100000000002,
@@ -5391,25 +4993,11 @@
         "latitude": 50.028000000000006,
         "longitude": 14.45694
     },
-    "Klášterecká": {
-        "connections": {
-            "Osecká": {
-                "distance_km": 0.5060600000000006,
-                "distance_min": 2.0
-            },
-            "U Spojů": {
-                "distance_km": 1.44653,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.146010000000004,
-        "longitude": 14.455855
-    },
     "Klíčov": {
         "connections": {
             "Klíčovská": {
                 "distance_km": 0.6099699999999997,
-                "distance_min": 2.0
+                "distance_min": 1.46875
             },
             "Pod Krocínkou": {
                 "distance_km": 0.6410599999999995,
@@ -5451,7 +5039,7 @@
             },
             "Spojovací": {
                 "distance_km": 0.5055324999999993,
-                "distance_min": 1.86517333984375
+                "distance_min": 1.5583810657262802
             }
         },
         "latitude": 50.0921125,
@@ -5479,7 +5067,7 @@
             },
             "Poliklinika Čumpelíkova": {
                 "distance_km": 0.48351,
-                "distance_min": 1.21875
+                "distance_min": 1.083984375
             }
         },
         "latitude": 50.130970000000005,
@@ -5501,11 +5089,11 @@
             },
             "Ládví": {
                 "distance_km": 1.1319099999999978,
-                "distance_min": 2.0833333333332584
+                "distance_min": 2.0833333333333144
             },
             "Nádraží Holešovice": {
                 "distance_km": 2.77855,
-                "distance_min": 3.333333333333343
+                "distance_min": 3.3333333333334245
             },
             "Poliklinika Čumpelíkova": {
                 "distance_km": 0.48160999999999987,
@@ -5574,7 +5162,7 @@
                 "distance_min": 1.0
             },
             "Ďáblice": {
-                "distance_km": 0.43133,
+                "distance_km": 0.44566000000000017,
                 "distance_min": 1.0
             }
         },
@@ -5597,7 +5185,7 @@
             },
             "Vysočanská": {
                 "distance_km": 1.1128,
-                "distance_min": 1.833333333333485
+                "distance_min": 1.8333333333334758
             }
         },
         "latitude": 50.110414999999996,
@@ -5607,7 +5195,7 @@
         "connections": {
             "Na Jelenách": {
                 "distance_km": 0.63651,
-                "distance_min": 1.875
+                "distance_min": 1.71875
             }
         },
         "latitude": 50.017235,
@@ -5637,31 +5225,11 @@
         "latitude": 50.08876,
         "longitude": 14.3512
     },
-    "Koloděje": {
-        "connections": {
-            "Kvasinská": {
-                "distance_km": 0.39088,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.06017,
-        "longitude": 14.640835
-    },
-    "Kolodějská obora": {
-        "connections": {
-            "Dubeč": {
-                "distance_km": 2.2526300000000004,
-                "distance_min": 3.0
-            }
-        },
-        "latitude": 50.062452500000006,
-        "longitude": 14.6277475
-    },
     "Kolonie": {
         "connections": {
             "Perlit": {
                 "distance_km": 1.3834999999999997,
-                "distance_min": 2.875
+                "distance_min": 2.59375
             },
             "Pod Táborem": {
                 "distance_km": 0.9341000000000004,
@@ -5759,7 +5327,7 @@
         "connections": {
             "Peluněk": {
                 "distance_km": 0.5482300000000002,
-                "distance_min": 1.234375
+                "distance_min": 1.05029296875
             },
             "Sídliště Zbraslav": {
                 "distance_km": 0.31487,
@@ -5785,7 +5353,7 @@
             },
             "Weberova": {
                 "distance_km": 0.5804799999999997,
-                "distance_min": 1.984375
+                "distance_min": 1.999755859375
             }
         },
         "latitude": 50.07020421875,
@@ -5809,10 +5377,10 @@
         "connections": {
             "Luka": {
                 "distance_km": 0.5096499999999997,
-                "distance_min": 2.984375
+                "distance_min": 2.49951171875
             },
             "Mládí": {
-                "distance_km": 0.47911249999999983,
+                "distance_km": 0.47912,
                 "distance_min": 1.0
             }
         },
@@ -5841,10 +5409,10 @@
             },
             "Poliklinika Mazurská": {
                 "distance_km": 0.3087799999999987,
-                "distance_min": 1.5
+                "distance_min": 2.0
             },
             "Zhořelecká": {
-                "distance_km": 0.33374125000000004,
+                "distance_km": 0.3337425000000001,
                 "distance_min": 1.0
             }
         },
@@ -5881,7 +5449,7 @@
             },
             "Motol": {
                 "distance_km": 0.8956,
-                "distance_min": 1.2490234375
+                "distance_min": 1.0896682739257812
             }
         },
         "latitude": 50.0656975,
@@ -5908,11 +5476,11 @@
     "Krymská": {
         "connections": {
             "Jana Masaryka": {
-                "distance_km": 0.49404500000000023,
+                "distance_km": 0.4940450000000003,
                 "distance_min": 1.5
             },
             "Ruská": {
-                "distance_km": 0.31334249999999964,
+                "distance_km": 0.313345,
                 "distance_min": 1.0
             },
             "Slovinská": {
@@ -5942,10 +5510,6 @@
             "Třeboradice": {
                 "distance_km": 0.5680300000000003,
                 "distance_min": 2.0
-            },
-            "U Bílého mlýnku": {
-                "distance_km": 0.5954699999999999,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.1594175,
@@ -5987,7 +5551,7 @@
             },
             "Na Strži": {
                 "distance_km": 0.3334299999999999,
-                "distance_min": 1.560546875
+                "distance_min": 1.4573822021484375
             }
         },
         "latitude": 50.04358,
@@ -6020,11 +5584,11 @@
     "Kublov": {
         "connections": {
             "Dvorce": {
-                "distance_km": 0.8690099999999995,
-                "distance_min": 1.5924072265625
+                "distance_km": 0.8690099999999996,
+                "distance_min": 1.0320982933044434
             },
             "Podolská vodárna": {
-                "distance_km": 0.6194393749999991,
+                "distance_km": 0.6194387499999993,
                 "distance_min": 2.0
             }
         },
@@ -6053,7 +5617,7 @@
             },
             "Rokoska": {
                 "distance_km": 0.6487100000000001,
-                "distance_min": 1.5
+                "distance_min": 1.461181640625
             }
         },
         "latitude": 50.11661,
@@ -6124,16 +5688,6 @@
         },
         "latitude": 50.013325,
         "longitude": 14.48163
-    },
-    "Kvasinská": {
-        "connections": {
-            "Pod Oborou": {
-                "distance_km": 0.8545900000000001,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.0627528125,
-        "longitude": 14.64292375
     },
     "Květnová": {
         "connections": {
@@ -6213,19 +5767,19 @@
         "connections": {
             "Florenc": {
                 "distance_km": 1.0165800000000011,
-                "distance_min": 1.833333333333485
+                "distance_min": 1.8333333333334758
             },
             "Invalidovna": {
                 "distance_km": 0.9728900000000014,
-                "distance_min": 1.666666507721023
+                "distance_min": 1.6666666666618917
             },
             "Karlínské náměstí": {
-                "distance_km": 0.49863000000000024,
+                "distance_km": 0.49863000000000013,
                 "distance_min": 1.0
             },
             "Urxova": {
                 "distance_km": 0.45469000000000004,
-                "distance_min": 1.78076171875
+                "distance_min": 1.7568340301513672
             }
         },
         "latitude": 50.092835625,
@@ -6239,7 +5793,7 @@
             },
             "Na Knížecí": {
                 "distance_km": 0.85046,
-                "distance_min": 3.9990234375
+                "distance_min": 3.757643699645996
             },
             "Správa sociálního zabezpečení": {
                 "distance_km": 0.42155,
@@ -6308,7 +5862,7 @@
     "Lazarská": {
         "connections": {
             "Karlovo náměstí": {
-                "distance_km": 0.32664937500000074,
+                "distance_km": 0.3266487500000007,
                 "distance_min": 2.0
             },
             "Myslíkova": {
@@ -6369,7 +5923,7 @@
         "connections": {
             "Letňany": {
                 "distance_km": 0.8978000000000002,
-                "distance_min": 2.5
+                "distance_min": 2.492431640625
             },
             "Nový Prosek": {
                 "distance_km": 0.38482999999999734,
@@ -6377,7 +5931,7 @@
             },
             "Českolipská": {
                 "distance_km": 0.7095000000000002,
-                "distance_min": 1.5
+                "distance_min": 1.04486083984375
             }
         },
         "latitude": 50.12314125,
@@ -6395,7 +5949,7 @@
             },
             "Prosek": {
                 "distance_km": 2.05717,
-                "distance_min": 2.5833333333333
+                "distance_min": 2.583333333333412
             },
             "Výstaviště Letňany": {
                 "distance_km": 0.5231500000000003,
@@ -6445,11 +5999,11 @@
         "connections": {
             "Cílkova": {
                 "distance_km": 0.4889200000000002,
-                "distance_min": 1.062255859375
+                "distance_min": 1.0156245231628418
             },
             "Sídliště Lhotka": {
                 "distance_km": 0.4204700000000001,
-                "distance_min": 1.328125
+                "distance_min": 1.07421875
             }
         },
         "latitude": 50.01565,
@@ -6463,11 +6017,11 @@
             },
             "Novodvorská": {
                 "distance_km": 0.3389800000000007,
-                "distance_min": 1.328125
+                "distance_min": 1.072265625
             },
             "Sídliště Lhotka": {
                 "distance_km": 0.6426100000000003,
-                "distance_min": 1.328125
+                "distance_min": 1.08984375
             },
             "V Zátiší": {
                 "distance_km": 0.6973099999999999,
@@ -6484,11 +6038,11 @@
                 "distance_min": 1.0
             },
             "Čimice": {
-                "distance_km": 0.46275,
+                "distance_km": 0.4627499999999998,
                 "distance_min": 1.0
             },
             "Řepínská": {
-                "distance_km": 0.5062500000000008,
+                "distance_km": 0.50625,
                 "distance_min": 1.0
             }
         },
@@ -6512,7 +6066,7 @@
     "Libeňský zámek": {
         "connections": {
             "Divadlo pod Palmovkou": {
-                "distance_km": 0.29801000000000005,
+                "distance_km": 0.29801,
                 "distance_min": 1.0
             },
             "U Kříže": {
@@ -6541,7 +6095,7 @@
         "connections": {
             "Chvaly": {
                 "distance_km": 0.39349499999999993,
-                "distance_min": 1.625
+                "distance_min": 1.53125
             },
             "Krahulčí": {
                 "distance_km": 0.5229999999999997,
@@ -6559,7 +6113,7 @@
         "connections": {
             "Jirčanská": {
                 "distance_km": 0.5197500000000002,
-                "distance_min": 1.984375
+                "distance_min": 1.7216796875
             },
             "Mílová": {
                 "distance_km": 0.42759000000000036,
@@ -6568,10 +6122,6 @@
             "U Libušské sokolovny": {
                 "distance_km": 0.3976500000000005,
                 "distance_min": 2.0
-            },
-            "U Zvoničky": {
-                "distance_km": 0.2368800000000001,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.0082225,
@@ -6596,10 +6146,6 @@
             "Buštěhrad": {
                 "distance_km": 1.1866450000000004,
                 "distance_min": 2.0
-            },
-            "Makotřasy,Rozcestí": {
-                "distance_km": 1.1338299999999997,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.146585,
@@ -6609,7 +6155,7 @@
         "connections": {
             "Chodovec": {
                 "distance_km": 8.61047,
-                "distance_min": 9.0623779296875
+                "distance_min": 9.00341460108757
             },
             "Malá Chuchle": {
                 "distance_km": 3.13794,
@@ -6617,7 +6163,7 @@
             },
             "Pobřežní cesta": {
                 "distance_km": 2.00151,
-                "distance_min": 3.123046875
+                "distance_min": 3.0056724548339844
             },
             "Přístaviště": {
                 "distance_km": 2.27369,
@@ -6625,10 +6171,10 @@
             },
             "Serpentina": {
                 "distance_km": 2.0676300000000003,
-                "distance_min": 4.9375
+                "distance_min": 4.4921875
             },
             "Smíchovské nádraží": {
-                "distance_km": 1.2862043749999996,
+                "distance_km": 1.2836585937499996,
                 "distance_min": 2.0
             },
             "Správa sociálního zabezpečení": {
@@ -6650,7 +6196,7 @@
                 "distance_min": 3.0
             },
             "Donatellova": {
-                "distance_km": 0.7429524999999999,
+                "distance_km": 0.7429549999999994,
                 "distance_min": 2.0
             },
             "Sídliště Malešice": {
@@ -6813,11 +6359,11 @@
             },
             "Lužiny": {
                 "distance_km": 0.70051,
-                "distance_min": 1.416666507721023
+                "distance_min": 1.4166666666618917
             },
             "Stodůlky": {
                 "distance_km": 1.1233299999999993,
-                "distance_min": 1.6666666666667425
+                "distance_min": 1.6666666666667334
             },
             "Vackova": {
                 "distance_km": 0.5578600000000002,
@@ -6835,7 +6381,7 @@
             },
             "Nádraží Horní Počernice": {
                 "distance_km": 0.40414000000000017,
-                "distance_min": 1.96875
+                "distance_min": 1.998046875
             }
         },
         "latitude": 50.1162325,
@@ -6849,7 +6395,7 @@
             },
             "Luka": {
                 "distance_km": 0.7004699999999993,
-                "distance_min": 1.3333333333332575
+                "distance_min": 1.3333333333332666
             }
         },
         "latitude": 50.044492500000004,
@@ -6857,10 +6403,6 @@
     },
     "Lysolaje": {
         "connections": {
-            "Horoměřice,Švejkova": {
-                "distance_km": 1.7962600000000002,
-                "distance_min": 2.0
-            },
             "Žákovská": {
                 "distance_km": 0.2700799999999992,
                 "distance_min": 1.0
@@ -6881,11 +6423,11 @@
             },
             "Střížkov": {
                 "distance_km": 1.4739000000000004,
-                "distance_min": 2.083333333333455
+                "distance_min": 2.083333333333414
             },
             "Štěpničná": {
                 "distance_km": 0.62987,
-                "distance_min": 1.341796875
+                "distance_min": 1.1559944152832031
             }
         },
         "latitude": 50.12656096679687,
@@ -6894,7 +6436,7 @@
     "Lázeňka": {
         "connections": {
             "Dubeček": {
-                "distance_km": 0.31931000000000065,
+                "distance_km": 0.31931000000000154,
                 "distance_min": 1.0
             },
             "Za Pavilonem": {
@@ -6927,7 +6469,7 @@
             },
             "U Labutě": {
                 "distance_km": 0.9992799999999997,
-                "distance_min": 2.0615234375
+                "distance_min": 2.002753257751465
             }
         },
         "latitude": 50.042649999999995,
@@ -6951,7 +6493,7 @@
         "connections": {
             "Nový Střížkov": {
                 "distance_km": 0.2438699999999998,
-                "distance_min": 1.0
+                "distance_min": 0.4296875
             },
             "Teplická": {
                 "distance_km": 0.6309624999999999,
@@ -6967,17 +6509,9 @@
     },
     "Makotřasy,Rozcestí": {
         "connections": {
-            "Dědina": {
-                "distance_km": 9.837439999999999,
-                "distance_min": 9.0
-            },
             "Lidice,Památník": {
                 "distance_km": 1.0988400000000018,
                 "distance_min": 2.0
-            },
-            "U Hangáru": {
-                "distance_km": 7.878040000000002,
-                "distance_min": 6.0
             }
         },
         "latitude": 50.147324999999995,
@@ -6985,12 +6519,8 @@
     },
     "Malešická": {
         "connections": {
-            "Třebešín": {
-                "distance_km": 0.27899999999999997,
-                "distance_min": 1.0
-            },
             "Vackov": {
-                "distance_km": 0.4265650000000001,
+                "distance_km": 0.4265600000000003,
                 "distance_min": 1.0
             }
         },
@@ -7015,37 +6545,15 @@
         "connections": {
             "Pod Táborem": {
                 "distance_km": 1.0281500000000001,
-                "distance_min": 2.24609375
-            },
-            "Rektorská": {
-                "distance_km": 0.9012100000000001,
-                "distance_min": 2.0
+                "distance_min": 2.0581817626953125
             },
             "Sídliště Malešice": {
-                "distance_km": 0.32353500000000013,
+                "distance_km": 0.3235299999999999,
                 "distance_min": 1.0
-            },
-            "Univerzitní": {
-                "distance_km": 0.6889099999999999,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.08516,
         "longitude": 14.5114475
-    },
-    "Malešický park": {
-        "connections": {
-            "Habrová": {
-                "distance_km": 0.4912300000000003,
-                "distance_min": 2.0
-            },
-            "Univerzitní": {
-                "distance_km": 0.5001100000000003,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.08631,
-        "longitude": 14.4962
     },
     "Malostranská": {
         "connections": {
@@ -7054,8 +6562,8 @@
                 "distance_min": 3.0
             },
             "Hradčanská": {
-                "distance_km": 0.8211999999999993,
-                "distance_min": 1.780110677083306
+                "distance_km": 0.8211974999999994,
+                "distance_min": 1.8008855183918808
             },
             "Královský letohrádek": {
                 "distance_km": 1.1843500000000002,
@@ -7067,7 +6575,7 @@
             },
             "Staroměstská": {
                 "distance_km": 0.7761999999999993,
-                "distance_min": 1.4166666666667425
+                "distance_min": 1.4166666666667407
             },
             "Valdštejnské náměstí": {
                 "distance_km": 0.4547300000000001,
@@ -7147,11 +6655,11 @@
         "connections": {
             "Dostihová": {
                 "distance_km": 1.3750299999999998,
-                "distance_min": 1.875
+                "distance_min": 1.734375
             },
             "Lihovar": {
-                "distance_km": 3.0761381250000004,
-                "distance_min": 3.4375
+                "distance_km": 3.0753670312500003,
+                "distance_min": 3.171875
             },
             "Starolázeňská": {
                 "distance_km": 1.2170800000000002,
@@ -7246,7 +6754,7 @@
                 "distance_min": 2.0
             },
             "Jindřišská": {
-                "distance_km": 0.3652693749999998,
+                "distance_km": 0.3652687499999998,
                 "distance_min": 2.0
             },
             "Náměstí Republiky": {
@@ -7404,7 +6912,7 @@
                 "distance_min": 1.0
             },
             "Nová kolonie": {
-                "distance_km": 0.41480000000000017,
+                "distance_km": 0.41480000000000006,
                 "distance_min": 1.0
             }
         },
@@ -7461,10 +6969,10 @@
         "connections": {
             "Myšlínská": {
                 "distance_km": 0.5968199999999999,
-                "distance_min": 1.0623779296875
+                "distance_min": 1.0023498237133026
             },
             "Plošná": {
-                "distance_km": 0.9105400000000001,
+                "distance_km": 0.910540000000001,
                 "distance_min": 1.0
             }
         },
@@ -7493,11 +7001,11 @@
         "connections": {
             "Botanická zahrada": {
                 "distance_km": 0.34725000000000006,
-                "distance_min": 1.869140625
+                "distance_min": 1.87481689453125
             },
             "Palackého náměstí": {
-                "distance_km": 0.34427937500000044,
-                "distance_min": 1.87396240234375
+                "distance_km": 0.3442774999999998,
+                "distance_min": 1.3684992790222168
             }
         },
         "latitude": 50.07402,
@@ -7524,12 +7032,12 @@
                 "distance_min": 1.0
             },
             "Nemocnice Motol": {
-                "distance_km": 0.8145496874999997,
+                "distance_km": 0.8145487499999997,
                 "distance_min": 2.0
             },
             "Vozovna Motol": {
                 "distance_km": 0.3540199999999998,
-                "distance_min": 1.936492919921875
+                "distance_min": 1.9062423631548882
             },
             "Šafránkova": {
                 "distance_km": 1.7987,
@@ -7585,7 +7093,7 @@
             },
             "Volyňská": {
                 "distance_km": 0.41981,
-                "distance_min": 1.21875
+                "distance_min": 1.013671875
             }
         },
         "latitude": 50.073425,
@@ -7595,7 +7103,7 @@
         "connections": {
             "Hlavní nádraží": {
                 "distance_km": 0.4255999999999993,
-                "distance_min": 1.1666666666665448
+                "distance_min": 1.1666666666665861
             },
             "I. P. Pavlova": {
                 "distance_km": 0.35842999999999936,
@@ -7603,7 +7111,7 @@
             },
             "I.P.Pavlova": {
                 "distance_km": 0.6918699999999998,
-                "distance_min": 1.6666666666666003
+                "distance_min": 1.666666666666682
             },
             "Italská": {
                 "distance_km": 0.2608800000000002,
@@ -7611,11 +7119,11 @@
             },
             "Můstek": {
                 "distance_km": 0.6907900000000002,
-                "distance_min": 1.530110677083306
+                "distance_min": 1.5508855183918808
             },
             "Náměstí Míru": {
                 "distance_km": 0.8079999999999998,
-                "distance_min": 1.615890502929671
+                "distance_min": 1.6310273210207713
             }
         },
         "latitude": 50.080167343750006,
@@ -7625,7 +7133,7 @@
         "connections": {
             "Jiráskovo náměstí": {
                 "distance_km": 0.4075799999999994,
-                "distance_min": 1.984375
+                "distance_min": 1.999755859375
             },
             "Lazarská": {
                 "distance_km": 0.2323400000000002,
@@ -7638,7 +7146,7 @@
     "Myšlínská": {
         "connections": {
             "Mokřanská": {
-                "distance_km": 0.6456800000000005,
+                "distance_km": 0.6817199999999985,
                 "distance_min": 1.0
             },
             "Sklářská": {
@@ -7705,7 +7213,7 @@
         "connections": {
             "Muzeum": {
                 "distance_km": 0.6827699999999997,
-                "distance_min": 1.6158905029298094
+                "distance_min": 1.6310273210208703
             },
             "Náměstí Republiky": {
                 "distance_km": 0.8240700000000007,
@@ -7716,8 +7224,8 @@
                 "distance_min": 1.25
             },
             "Staroměstská": {
-                "distance_km": 0.74214,
-                "distance_min": 1.4467773437499032
+                "distance_km": 0.7421400000000002,
+                "distance_min": 1.4675521850585347
             }
         },
         "latitude": 50.083511875,
@@ -7894,7 +7402,7 @@
                 "distance_min": 0.0
             },
             "Plzeňka": {
-                "distance_km": 0.5100887499999998,
+                "distance_km": 0.5100874999999996,
                 "distance_min": 1.0
             },
             "Santoška": {
@@ -7972,7 +7480,7 @@
     "Na Padesátníku": {
         "connections": {
             "Terminál 3": {
-                "distance_km": 0.5094600000000007,
+                "distance_km": 0.52122,
                 "distance_min": 1.0
             },
             "U Hangáru": {
@@ -7995,7 +7503,7 @@
             },
             "Zahradní Město": {
                 "distance_km": 0.6316512500000002,
-                "distance_min": 2.04345703125
+                "distance_min": 2.008943557739258
             }
         },
         "latitude": 50.064579843749996,
@@ -8013,7 +7521,7 @@
             },
             "Želivského": {
                 "distance_km": 1.0955499999999996,
-                "distance_min": 2.123046875
+                "distance_min": 2.006643295288086
             }
         },
         "latitude": 50.080434999999994,
@@ -8072,20 +7580,6 @@
         },
         "latitude": 50.039550000000006,
         "longitude": 14.430240000000001
-    },
-    "Na Pramenech": {
-        "connections": {
-            "Obchodní centrum Čakovice": {
-                "distance_km": 0.7835699999999992,
-                "distance_min": 2.0
-            },
-            "Ďáblice": {
-                "distance_km": 0.74899,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.148675,
-        "longitude": 14.49717
     },
     "Na Proutcích": {
         "connections": {
@@ -8151,7 +7645,7 @@
             },
             "Římská": {
                 "distance_km": 0.36724,
-                "distance_min": 1.4921875
+                "distance_min": 1.1051788330078125
             }
         },
         "latitude": 50.08,
@@ -8227,7 +7721,7 @@
             },
             "Běchovice": {
                 "distance_km": 0.7230799999999995,
-                "distance_min": 1.46875
+                "distance_min": 1.48046875
             }
         },
         "latitude": 50.080145,
@@ -8292,12 +7786,12 @@
     "Na Štamberku": {
         "connections": {
             "Kokořínská": {
-                "distance_km": 0.5170600000000005,
+                "distance_km": 0.5170600000000003,
                 "distance_min": 1.0
             },
             "U Spojů": {
-                "distance_km": 0.49046999999999963,
-                "distance_min": 1.375
+                "distance_km": 0.49047,
+                "distance_min": 1.0
             },
             "Ďáblice": {
                 "distance_km": 0.6756300000000004,
@@ -8343,7 +7837,7 @@
         "connections": {
             "Prosek": {
                 "distance_km": 0.7308500000000002,
-                "distance_min": 2.24609375
+                "distance_min": 2.108642578125
             },
             "Vysočanská": {
                 "distance_km": 1.0538500000000006,
@@ -8357,7 +7851,7 @@
         "connections": {
             "Klamovka": {
                 "distance_km": 0.5254624999999997,
-                "distance_min": 1.83984375
+                "distance_min": 1.653564453125
             },
             "Pod Lipkami": {
                 "distance_km": 0.3013899999999998,
@@ -8413,7 +7907,7 @@
         "connections": {
             "Hercovka": {
                 "distance_km": 0.993739999999999,
-                "distance_min": 1.24609375
+                "distance_min": 1.0311126708984375
             },
             "Trojská": {
                 "distance_km": 0.6873299999999998,
@@ -8509,10 +8003,6 @@
     },
     "Nemocnice Krč": {
         "connections": {
-            "Budějovická": {
-                "distance_km": 2.4298399999999987,
-                "distance_min": 5.0
-            },
             "IKEM": {
                 "distance_km": 1.2992600000000003,
                 "distance_min": 3.0
@@ -8523,11 +8013,11 @@
             },
             "Klárův ústav": {
                 "distance_km": 0.3951324999999999,
-                "distance_min": 1.01318359375
+                "distance_min": 1.0001540184020996
             },
             "Lhotka": {
                 "distance_km": 1.62225,
-                "distance_min": 4.0
+                "distance_min": 3.341796875
             },
             "U Labutě": {
                 "distance_km": 0.5242212499999999,
@@ -8553,11 +8043,11 @@
             },
             "Petřiny": {
                 "distance_km": 1.47673,
-                "distance_min": 2.2825571695963234
+                "distance_min": 2.2976939876873868
             },
             "Zahradníčkova": {
                 "distance_km": 0.7146399999999999,
-                "distance_min": 1.984375
+                "distance_min": 1.99951171875
             },
             "Šafránecká": {
                 "distance_km": 0.35674000000000017,
@@ -8571,7 +8061,7 @@
         "connections": {
             "Dlouhá třída": {
                 "distance_km": 0.5749899999999999,
-                "distance_min": 2.498046875
+                "distance_min": 2.23431396484375
             },
             "Právnická fakulta": {
                 "distance_km": 0.4591699999999994,
@@ -8590,16 +8080,6 @@
         },
         "latitude": 50.075675000000004,
         "longitude": 14.354424999999999
-    },
-    "Nemocnice Vinohrady": {
-        "connections": {
-            "Želivského": {
-                "distance_km": 1.056,
-                "distance_min": 3.0
-            }
-        },
-        "latitude": 50.076705000000004,
-        "longitude": 14.47552
     },
     "Nemocnice pod Petřínem": {
         "connections": {
@@ -8639,7 +8119,7 @@
         "connections": {
             "Poliklinika Prosek": {
                 "distance_km": 0.65327,
-                "distance_min": 2.0
+                "distance_min": 1.4375
             }
         },
         "latitude": 50.12628,
@@ -8671,11 +8151,11 @@
         "connections": {
             "Lazarská": {
                 "distance_km": 0.29519812500000003,
-                "distance_min": 1.483154296875
+                "distance_min": 1.4472484588623047
             },
             "Národní třída": {
                 "distance_km": 0.47404875000000013,
-                "distance_min": 2.876708984375
+                "distance_min": 2.8142542839050293
             }
         },
         "latitude": 50.07746,
@@ -8720,7 +8200,7 @@
                 "distance_min": 1.0
             },
             "Nárožní": {
-                "distance_km": 0.4358574999999999,
+                "distance_km": 0.43584999999999985,
                 "distance_min": 1.0
             }
         },
@@ -8753,11 +8233,11 @@
             },
             "Karlštejnská": {
                 "distance_km": 0.9041399999999999,
-                "distance_min": 2.25
+                "distance_min": 2.029296875
             },
             "Nové Butovice": {
                 "distance_km": 0.34945000000000026,
-                "distance_min": 1.00390625
+                "distance_min": 1.0000227391719818
             },
             "Nušlova": {
                 "distance_km": 0.6258999999999997,
@@ -8867,7 +8347,7 @@
         "connections": {
             "Kbelská": {
                 "distance_km": 0.5569800000000003,
-                "distance_min": 2.875
+                "distance_min": 2.984375
             },
             "Kolbenova": {
                 "distance_km": 0.9098499999999998,
@@ -9009,7 +8489,7 @@
             },
             "Černý kůň": {
                 "distance_km": 0.8263599999999998,
-                "distance_min": 1.123046875
+                "distance_min": 1.0056724548339844
             }
         },
         "latitude": 50.02898609375,
@@ -9019,7 +8499,7 @@
         "connections": {
             "Běchovice": {
                 "distance_km": 1.3079750000000003,
-                "distance_min": 2.96875
+                "distance_min": 2.998046875
             },
             "Dolní Počernice": {
                 "distance_km": 1.6684299999999999,
@@ -9031,7 +8511,7 @@
             },
             "Obchodní centrum Černý Most": {
                 "distance_km": 4.5204200000000005,
-                "distance_min": 6.96875
+                "distance_min": 6.998046875
             }
         },
         "latitude": 50.08115,
@@ -9041,7 +8521,7 @@
         "connections": {
             "Běchovice": {
                 "distance_km": 0.46608999999999945,
-                "distance_min": 1.25
+                "distance_min": 1.0625
             },
             "Podnikatelská": {
                 "distance_km": 0.29763999999999946,
@@ -9073,11 +8553,11 @@
         "connections": {
             "Jankovcova": {
                 "distance_km": 0.47727,
-                "distance_min": 1.5
+                "distance_min": 1.461181640625
             },
             "Kobylisy": {
                 "distance_km": 2.7826200000000014,
-                "distance_min": 2.9166666666667416
+                "distance_min": 2.9166666666666856
             },
             "Ortenovo náměstí": {
                 "distance_km": 0.55396,
@@ -9093,7 +8573,7 @@
             },
             "Vltavská": {
                 "distance_km": 1.03824,
-                "distance_min": 1.6666666666666572
+                "distance_min": 1.6666666666665755
             },
             "Výstaviště Holešovice": {
                 "distance_km": 0.7651250000000005,
@@ -9107,7 +8587,7 @@
         "connections": {
             "Boloňská": {
                 "distance_km": 0.7819400000000005,
-                "distance_min": 1.9375
+                "distance_min": 1.99609375
             },
             "K Dubečku": {
                 "distance_km": 0.8612700000000002,
@@ -9143,7 +8623,7 @@
             },
             "Hostivařská": {
                 "distance_km": 0.5865400000000003,
-                "distance_min": 1.4375
+                "distance_min": 1.234375
             },
             "Nádraží Hostivař": {
                 "distance_km": 0.22211999999999854,
@@ -9199,11 +8679,11 @@
         "connections": {
             "Na Staré cestě": {
                 "distance_km": 0.5838299999999998,
-                "distance_min": 1.21875
+                "distance_min": 1.021484375
             },
             "Višňová": {
                 "distance_km": 0.6169700000000002,
-                "distance_min": 1.875
+                "distance_min": 1.890625
             }
         },
         "latitude": 50.035084999999995,
@@ -9212,7 +8692,7 @@
     "Nádraží Libeň": {
         "connections": {
             "K Žižkovu": {
-                "distance_km": 0.52056,
+                "distance_km": 0.5205600000000004,
                 "distance_min": 1.0
             },
             "Kabešova": {
@@ -9246,7 +8726,7 @@
                 "distance_min": 1.0
             },
             "Čechova čtvrť": {
-                "distance_km": 0.642770000000001,
+                "distance_km": 0.6427699999999996,
                 "distance_min": 1.0
             }
         },
@@ -9256,7 +8736,7 @@
     "Nádraží Podbaba": {
         "connections": {
             "Výzkumný ústav vodohospodářský": {
-                "distance_km": 0.37598999999999994,
+                "distance_km": 0.37599000000000005,
                 "distance_min": 1.0
             },
             "Zelená": {
@@ -9313,7 +8793,7 @@
         "connections": {
             "Korytná": {
                 "distance_km": 0.57226,
-                "distance_min": 1.2802734375
+                "distance_min": 1.0517024993896484
             },
             "Na Hroudě": {
                 "distance_km": 0.3248200000000012,
@@ -9331,7 +8811,7 @@
         "connections": {
             "Nové náměstí": {
                 "distance_km": 0.4022,
-                "distance_min": 1.875
+                "distance_min": 1.96875
             }
         },
         "latitude": 50.033606250000005,
@@ -9341,11 +8821,11 @@
         "connections": {
             "Bořislavka": {
                 "distance_km": 1.09356,
-                "distance_min": 1.699223836263067
+                "distance_min": 1.7143606543541279
             },
             "Divoká Šárka": {
                 "distance_km": 1.87984,
-                "distance_min": 4.875
+                "distance_min": 4.984375
             },
             "Nad Džbánem": {
                 "distance_km": 0.7138,
@@ -9353,7 +8833,7 @@
             },
             "Petřiny": {
                 "distance_km": 1.1358999999999995,
-                "distance_min": 2.1134440104167904
+                "distance_min": 2.134218851725259
             },
             "Červený Vrch": {
                 "distance_km": 0.34471000000000007,
@@ -9375,7 +8855,7 @@
             },
             "Otakarova": {
                 "distance_km": 0.5617775,
-                "distance_min": 2.74609375
+                "distance_min": 2.6874542236328125
             }
         },
         "latitude": 50.0658625,
@@ -9416,7 +8896,7 @@
     "Nádraží Čakovice": {
         "connections": {
             "Cukrovar Čakovice": {
-                "distance_km": 0.19465625000000006,
+                "distance_km": 0.1946549999999999,
                 "distance_min": 1.0
             },
             "Ke Stadionu": {
@@ -9487,13 +8967,9 @@
     },
     "Náměstí Jiřího Berana": {
         "connections": {
-            "Ke Stadionu": {
-                "distance_km": 0.3810300000000001,
-                "distance_min": 1.0
-            },
             "Čakovice": {
-                "distance_km": 0.4482499999999998,
-                "distance_min": 2.0
+                "distance_km": 0.21099000000000068,
+                "distance_min": 1.0
             }
         },
         "latitude": 50.1502725,
@@ -9502,24 +8978,24 @@
     "Náměstí Míru": {
         "connections": {
             "I. P. Pavlova": {
-                "distance_km": 0.41241499999999975,
+                "distance_km": 0.4124099999999995,
                 "distance_min": 2.0
             },
             "Jana Masaryka": {
-                "distance_km": 0.392675,
+                "distance_km": 0.3926749999999999,
                 "distance_min": 2.0
             },
             "Jiřího z Poděbrad": {
                 "distance_km": 0.8567400000000003,
-                "distance_min": 1.5325571695963245
+                "distance_min": 1.5476939876873872
             },
             "Muzeum": {
                 "distance_km": 0.8066499999999999,
-                "distance_min": 1.6967773437500484
+                "distance_min": 1.7175521850586233
             },
             "Římská": {
                 "distance_km": 0.44772000000000034,
-                "distance_min": 1.24609375
+                "distance_min": 1.0049400329589844
             },
             "Šumavská": {
                 "distance_km": 0.5974056250000002,
@@ -9545,11 +9021,11 @@
             },
             "Masarykovo nádraží": {
                 "distance_km": 0.43663750000000023,
-                "distance_min": 1.56884765625
+                "distance_min": 1.531972885131836
             },
             "Můstek": {
                 "distance_km": 0.8178000000000001,
-                "distance_min": 1.666666666666515
+                "distance_min": 1.6666666666665242
             }
         },
         "latitude": 50.0889053125,
@@ -9557,10 +9033,6 @@
     },
     "Náměstí U Lva": {
         "connections": {
-            "Slatinová": {
-                "distance_km": 0.67456,
-                "distance_min": 1.0
-            },
             "Řeporyjské náměstí": {
                 "distance_km": 0.4407000000000001,
                 "distance_min": 1.0
@@ -9613,7 +9085,7 @@
         "connections": {
             "Karlovo náměstí": {
                 "distance_km": 0.6558899999999994,
-                "distance_min": 1.333333333333485
+                "distance_min": 1.3333333333334758
             },
             "Lazarská": {
                 "distance_km": 0.32554000000000016,
@@ -9634,7 +9106,7 @@
     "Nárožní": {
         "connections": {
             "Bucharova": {
-                "distance_km": 0.6413424999999997,
+                "distance_km": 0.6413500000000003,
                 "distance_min": 2.0
             },
             "Nová kolonie": {
@@ -9689,16 +9161,12 @@
     },
     "Obchodní centrum Čakovice": {
         "connections": {
-            "Na Pramenech": {
-                "distance_km": 0.81372,
-                "distance_min": 1.0
-            },
             "Trutnovská": {
                 "distance_km": 0.5573950000000001,
                 "distance_min": 1.0
             },
             "Za Avií": {
-                "distance_km": 0.4825349999999997,
+                "distance_km": 0.4828099999999993,
                 "distance_min": 1.0
             }
         },
@@ -9709,7 +9177,7 @@
         "connections": {
             "Nádraží Běchovice": {
                 "distance_km": 4.37989,
-                "distance_min": 5.96875
+                "distance_min": 5.677734375
             },
             "Černý Most": {
                 "distance_km": 0.8234249999999994,
@@ -9737,11 +9205,11 @@
         "connections": {
             "Ústřední": {
                 "distance_km": 0.8700800000000007,
-                "distance_min": 2.84375
+                "distance_min": 2.904296875
             },
             "Štěrboholy": {
                 "distance_km": 1.0722800000000001,
-                "distance_min": 2.9375
+                "distance_min": 2.99609375
             }
         },
         "latitude": 50.07217,
@@ -9857,7 +9325,7 @@
             },
             "Ohrada": {
                 "distance_km": 0.1871299999999998,
-                "distance_min": 1.498046875
+                "distance_min": 1.22991943359375
             },
             "Vozovna Žižkov": {
                 "distance_km": 0.33080250000000033,
@@ -9908,7 +9376,7 @@
                 "distance_min": 1.0
             },
             "Vychovatelna": {
-                "distance_km": 0.2843512499999999,
+                "distance_km": 0.2843524999999999,
                 "distance_min": 1.0
             }
         },
@@ -9973,11 +9441,11 @@
             },
             "Chodov": {
                 "distance_km": 1.4310200000000002,
-                "distance_min": 1.9999999999999858
+                "distance_min": 1.999999999999993
             },
             "Háje": {
                 "distance_km": 1.3156600000000012,
-                "distance_min": 1.5833333333333428
+                "distance_min": 1.5833333333333641
             },
             "Ke Kateřinkám": {
                 "distance_km": 0.9527374999999993,
@@ -10011,7 +9479,7 @@
             },
             "Vlašimská": {
                 "distance_km": 0.4071299999999993,
-                "distance_min": 1.80859375
+                "distance_min": 1.77740478515625
             }
         },
         "latitude": 50.07566,
@@ -10033,10 +9501,6 @@
     },
     "Osecká": {
         "connections": {
-            "Klášterecká": {
-                "distance_km": 0.57951,
-                "distance_min": 1.75
-            },
             "Měděnecká": {
                 "distance_km": 0.48202999999999996,
                 "distance_min": 1.0
@@ -10046,26 +9510,12 @@
                 "distance_min": 1.0
             },
             "V Kratinách": {
-                "distance_km": 0.4599049999999998,
+                "distance_km": 0.45991000000000026,
                 "distance_min": 1.0
             }
         },
         "latitude": 50.14633,
         "longitude": 14.448545
-    },
-    "Ostrov Štvanice": {
-        "connections": {
-            "Pražská tržnice": {
-                "distance_km": 0.1717,
-                "distance_min": 2.0
-            },
-            "Rohanský ostrov": {
-                "distance_km": 0.18259,
-                "distance_min": 3.0
-            }
-        },
-        "latitude": 50.09695,
-        "longitude": 14.44795
     },
     "Ostrčilovo náměstí": {
         "connections": {
@@ -10085,7 +9535,7 @@
         "connections": {
             "Nádraží Běchovice": {
                 "distance_km": 0.9162199999999991,
-                "distance_min": 2.9375
+                "distance_min": 2.99609375
             }
         },
         "latitude": 50.0766,
@@ -10184,7 +9634,7 @@
                 "distance_min": 2.0
             },
             "Karlovo náměstí": {
-                "distance_km": 0.4283060937500004,
+                "distance_km": 0.42830593750000034,
                 "distance_min": 2.0
             },
             "Palackého náměstí (nábřeží)": {
@@ -10192,7 +9642,7 @@
                 "distance_min": 1.0
             },
             "Zborovská": {
-                "distance_km": 0.5265524999999998,
+                "distance_km": 0.5265550000000001,
                 "distance_min": 2.0
             }
         },
@@ -10210,12 +9660,12 @@
                 "distance_min": 1.0
             },
             "Výtoň": {
-                "distance_km": 0.4791393749999998,
+                "distance_km": 0.47913875000000045,
                 "distance_min": 1.0
             },
             "Zborovská": {
-                "distance_km": 0.5496100000000008,
-                "distance_min": 2.74609375
+                "distance_km": 0.5496100000000004,
+                "distance_min": 2.4998779296875
             }
         },
         "latitude": 50.072230000000005,
@@ -10225,11 +9675,11 @@
         "connections": {
             "Balabenka": {
                 "distance_km": 1.27928,
-                "distance_min": 2.875
+                "distance_min": 2.96875
             },
             "Invalidovna": {
                 "distance_km": 1.1718600000000006,
-                "distance_min": 1.833333333333485
+                "distance_min": 1.8333333333334758
             },
             "Krejcárek": {
                 "distance_km": 0.8914150000000003,
@@ -10253,7 +9703,7 @@
             },
             "Českomoravská": {
                 "distance_km": 1.2691300000000005,
-                "distance_min": 2.0833331743875383
+                "distance_min": 2.083333333328407
             }
         },
         "latitude": 50.10403830757141,
@@ -10267,7 +9717,7 @@
             },
             "Pražského povstání": {
                 "distance_km": 0.7271299999999998,
-                "distance_min": 2.0615234375
+                "distance_min": 2.003737449645996
             }
         },
         "latitude": 50.061415,
@@ -10277,7 +9727,7 @@
         "connections": {
             "Budějovická": {
                 "distance_km": 0.994670000000001,
-                "distance_min": 1.6666666666666003
+                "distance_min": 1.666666666666682
             },
             "Pankrác": {
                 "distance_km": 0.17494999999999994,
@@ -10285,11 +9735,11 @@
             },
             "Pražského povstání": {
                 "distance_km": 0.8001499999999995,
-                "distance_min": 1.6666666666667416
+                "distance_min": 1.6666666666666856
             },
             "Sdružení": {
                 "distance_km": 0.48205999999999993,
-                "distance_min": 1.123046875
+                "distance_min": 1.0147666931152344
             },
             "Sídliště Pankrác": {
                 "distance_km": 0.6926700000000001,
@@ -10331,7 +9781,7 @@
         "connections": {
             "Jirčanská": {
                 "distance_km": 0.6315299999999997,
-                "distance_min": 1.328125
+                "distance_min": 1.08984375
             },
             "Přírodní": {
                 "distance_km": 0.49107000000000023,
@@ -10379,7 +9829,7 @@
         "connections": {
             "Kostrounek": {
                 "distance_km": 0.55382,
-                "distance_min": 1.234375
+                "distance_min": 1.02685546875
             },
             "Pod Kyjovem": {
                 "distance_km": 0.6038100000000011,
@@ -10411,11 +9861,11 @@
         "connections": {
             "Florenc": {
                 "distance_km": 0.3792899999999997,
-                "distance_min": 2.060546875
+                "distance_min": 2.000516891479492
             },
             "Náměstí Winstona Churchilla": {
                 "distance_km": 0.8871300000000001,
-                "distance_min": 3.24609375
+                "distance_min": 3.0526885986328125
             },
             "U Památníku": {
                 "distance_km": 0.40275000000000005,
@@ -10484,12 +9934,12 @@
     "Petřiny": {
         "connections": {
             "Nemocnice Motol": {
-                "distance_km": 1.524610000000001,
-                "distance_min": 1.9467773437499032
+                "distance_km": 1.5246100000000005,
+                "distance_min": 1.9675521850585347
             },
             "Nádraží Veleslavín": {
                 "distance_km": 1.1839699999999997,
-                "distance_min": 1.7825571695963245
+                "distance_min": 1.7976939876873854
             },
             "Sídliště Petřiny": {
                 "distance_km": 0.5500900000000009,
@@ -10517,7 +9967,7 @@
         "connections": {
             "Nádraží Uhříněves": {
                 "distance_km": 0.4270099999999992,
-                "distance_min": 1.875
+                "distance_min": 1.765625
             }
         },
         "latitude": 50.0347225,
@@ -10554,8 +10004,8 @@
     "Plošná": {
         "connections": {
             "Michelangelova": {
-                "distance_km": 0.6141549999999993,
-                "distance_min": 1.38958740234375
+                "distance_km": 0.6141499999999986,
+                "distance_min": 1.0013999938964844
             },
             "Mokřanská": {
                 "distance_km": 0.8959,
@@ -10587,7 +10037,7 @@
             },
             "Sportareál Satalice": {
                 "distance_km": 0.24614500000000006,
-                "distance_min": 0.75
+                "distance_min": 0.5312271118164062
             }
         },
         "latitude": 50.121935,
@@ -10611,7 +10061,7 @@
         "connections": {
             "Lihovar": {
                 "distance_km": 1.98327,
-                "distance_min": 3.123046875
+                "distance_min": 3.005695343017578
             },
             "Nádraží Braník": {
                 "distance_km": 0.5887799999999999,
@@ -10651,7 +10101,7 @@
             },
             "Kačerov": {
                 "distance_km": 0.46401250000000016,
-                "distance_min": 1.5615234375
+                "distance_min": 1.3791513442993164
             },
             "V Zápolí": {
                 "distance_km": 0.7066000000000008,
@@ -10665,10 +10115,6 @@
         "connections": {
             "Břetislavka": {
                 "distance_km": 0.6548499999999997,
-                "distance_min": 2.0
-            },
-            "Žákovská": {
-                "distance_km": 0.6762200000000003,
                 "distance_min": 2.0
             }
         },
@@ -10687,7 +10133,7 @@
             },
             "Michelská": {
                 "distance_km": 0.5042499999999999,
-                "distance_min": 2.0
+                "distance_min": 1.8740234375
             }
         },
         "latitude": 50.058094999999994,
@@ -10749,7 +10195,7 @@
             },
             "Na Petynce": {
                 "distance_km": 0.41965000000000074,
-                "distance_min": 1.125
+                "distance_min": 1.009765625
             }
         },
         "latitude": 50.08575,
@@ -10778,16 +10224,6 @@
         },
         "latitude": 50.07296,
         "longitude": 14.37311
-    },
-    "Pod Oborou": {
-        "connections": {
-            "Kolodějská obora": {
-                "distance_km": 0.6941299999999999,
-                "distance_min": 1.75
-            }
-        },
-        "latitude": 50.0630525,
-        "longitude": 14.63645
     },
     "Pod Pekařkou": {
         "connections": {
@@ -10838,8 +10274,8 @@
                 "distance_min": 2.0
             },
             "Malešické náměstí": {
-                "distance_km": 1.1951200000000006,
-                "distance_min": 2.14599609375
+                "distance_km": 1.1951200000000002,
+                "distance_min": 2.029277801513672
             },
             "Spojovací": {
                 "distance_km": 1.12677,
@@ -10856,11 +10292,7 @@
                 "distance_min": 1.0
             },
             "Třebešín": {
-                "distance_km": 0.7652699999999999,
-                "distance_min": 2.0
-            },
-            "Želivského": {
-                "distance_km": 0.8968599999999995,
+                "distance_km": 0.76527,
                 "distance_min": 2.0
             }
         },
@@ -10935,7 +10367,7 @@
             },
             "U Waltrovky": {
                 "distance_km": 0.5334799999999991,
-                "distance_min": 1.25
+                "distance_min": 1.052734375
             }
         },
         "latitude": 50.061184999999995,
@@ -11046,7 +10478,7 @@
                 "distance_min": 1.0
             },
             "Kublov": {
-                "distance_km": 0.44282375000000085,
+                "distance_km": 0.4428275000000006,
                 "distance_min": 1.0
             },
             "Výtoň": {
@@ -11097,11 +10529,11 @@
             },
             "Budějovická": {
                 "distance_km": 0.38761,
-                "distance_min": 1.875
+                "distance_min": 1.890625
             },
             "Lísek": {
                 "distance_km": 0.5232999999999999,
-                "distance_min": 1.0615234375
+                "distance_min": 1.002760887145996
             }
         },
         "latitude": 50.04337125000001,
@@ -11115,26 +10547,16 @@
             },
             "Nové Butovice": {
                 "distance_km": 0.7442399999999996,
-                "distance_min": 2.0078125
+                "distance_min": 2.0000280141830444
             }
         },
         "latitude": 50.051235000000005,
         "longitude": 14.346620000000001
     },
-    "Poliklinika Malešice": {
-        "connections": {
-            "Sídliště Malešice": {
-                "distance_km": 0.55605,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.080375000000004,
-        "longitude": 14.501650000000001
-    },
     "Poliklinika Mazurská": {
         "connections": {
             "Krakov": {
-                "distance_km": 0.31732,
+                "distance_km": 0.32484,
                 "distance_min": 1.0
             },
             "Na Pazderce": {
@@ -11149,7 +10571,7 @@
         "connections": {
             "Na Havránce": {
                 "distance_km": 0.7378400000000003,
-                "distance_min": 1.953125
+                "distance_min": 1.7197265625
             },
             "Poliklinika Modřany": {
                 "distance_km": 0.29751000000000083,
@@ -11161,7 +10583,7 @@
             },
             "Tylova čtvrť": {
                 "distance_km": 0.3820599999999999,
-                "distance_min": 1.561767578125
+                "distance_min": 1.2391986846923828
             },
             "U Libušského potoka": {
                 "distance_km": 0.3947199999999995,
@@ -11223,7 +10645,7 @@
             },
             "Českomoravská": {
                 "distance_km": 0.4121699999999997,
-                "distance_min": 2.0
+                "distance_min": 1.4140625
             }
         },
         "latitude": 50.10867625,
@@ -11261,7 +10683,7 @@
         "connections": {
             "Depo Hostivař": {
                 "distance_km": 0.6282799999999984,
-                "distance_min": 1.9375
+                "distance_min": 1.99609375
             },
             "Teplárna Malešice": {
                 "distance_km": 0.84412,
@@ -11325,10 +10747,6 @@
     },
     "Pramenná": {
         "connections": {
-            "Betáň": {
-                "distance_km": 1.4988199999999985,
-                "distance_min": 3.0
-            },
             "Vestec,Safina": {
                 "distance_km": 1.2049399999999997,
                 "distance_min": 2.0
@@ -11371,10 +10789,6 @@
                 "distance_km": 0.8397931250000006,
                 "distance_min": 2.0
             },
-            "Ostrov Štvanice": {
-                "distance_km": 0.1717,
-                "distance_min": 2.0
-            },
             "Vltavská": {
                 "distance_km": 0.4616349999999998,
                 "distance_min": 2.0
@@ -11401,7 +10815,7 @@
             },
             "Klikovka": {
                 "distance_km": 1.0000500000000008,
-                "distance_min": 2.123046875
+                "distance_min": 2.0130386352539062
             },
             "Na Veselí": {
                 "distance_km": 0.6150300000000009,
@@ -11409,7 +10823,7 @@
             },
             "Palouček": {
                 "distance_km": 0.552480000000001,
-                "distance_min": 1.0615234375
+                "distance_min": 1.0031509399414062
             },
             "Pankrác": {
                 "distance_km": 0.8003,
@@ -11455,7 +10869,7 @@
             },
             "Prosek": {
                 "distance_km": 0.3015600000000003,
-                "distance_min": 1.21875
+                "distance_min": 1.040771484375
             }
         },
         "latitude": 50.1173825,
@@ -11469,7 +10883,7 @@
             },
             "Letňany": {
                 "distance_km": 2.058109999999999,
-                "distance_min": 2.1666666666667416
+                "distance_min": 2.1666666666666856
             },
             "Nad Jetelkou": {
                 "distance_km": 0.7664999999999997,
@@ -11489,11 +10903,11 @@
             },
             "Starý Prosek": {
                 "distance_km": 0.4112999999999998,
-                "distance_min": 1.0
+                "distance_min": 0.46875
             },
             "Střížkov": {
                 "distance_km": 1.0067599999999999,
-                "distance_min": 1.6666666666666856
+                "distance_min": 1.6666666666665826
             },
             "Sídliště Prosek": {
                 "distance_km": 0.4697099999999994,
@@ -11567,7 +10981,7 @@
         "connections": {
             "Krematorium Strašnice": {
                 "distance_km": 0.56842,
-                "distance_min": 1.984375
+                "distance_min": 1.808349609375
             },
             "Kubánské náměstí": {
                 "distance_km": 0.5644199999999995,
@@ -11575,7 +10989,7 @@
             },
             "Na Hroudě": {
                 "distance_km": 0.2874100000000004,
-                "distance_min": 2.861328125
+                "distance_min": 2.6218719482421875
             },
             "Pod Rapidem": {
                 "distance_km": 0.24179999999999957,
@@ -11621,7 +11035,7 @@
         "connections": {
             "Jitřní": {
                 "distance_km": 0.4442900000000005,
-                "distance_min": 1.24609375
+                "distance_min": 1.0291290283203125
             },
             "Zatáčka": {
                 "distance_km": 0.58188,
@@ -11699,7 +11113,7 @@
         "connections": {
             "Amforová": {
                 "distance_km": 0.6085999999999999,
-                "distance_min": 1.234375
+                "distance_min": 1.0562744140625
             },
             "Archeologická": {
                 "distance_km": 0.4298700000000001,
@@ -11784,7 +11198,7 @@
                 "distance_min": 4.0
             },
             "Pobřežní cesta": {
-                "distance_km": 0.7433506249999995,
+                "distance_km": 0.7433512499999995,
                 "distance_min": 1.0
             },
             "Terasy": {
@@ -11793,7 +11207,7 @@
             },
             "U Staré pošty": {
                 "distance_km": 0.558149375,
-                "distance_min": 1.6170654296875
+                "distance_min": 1.5383245944976807
             }
         },
         "latitude": 50.03974625000001,
@@ -11917,10 +11331,6 @@
     },
     "Raichlova": {
         "connections": {
-            "Amforová": {
-                "distance_km": 0.36895,
-                "distance_min": 1.8125
-            },
             "Slatinová": {
                 "distance_km": 0.42439000000000004,
                 "distance_min": 1.0
@@ -11937,7 +11347,7 @@
             },
             "Hloubětín": {
                 "distance_km": 1.75175,
-                "distance_min": 2.1666666666665155
+                "distance_min": 2.1666666666665244
             },
             "Hutě": {
                 "distance_km": 0.8194299999999999,
@@ -11959,7 +11369,7 @@
         "connections": {
             "Jeřická": {
                 "distance_km": 0.81222,
-                "distance_min": 1.99609375
+                "distance_min": 1.999969482421875
             }
         },
         "latitude": 50.111295,
@@ -11979,16 +11389,6 @@
         "latitude": 50.074215,
         "longitude": 14.310145
     },
-    "Rektorská": {
-        "connections": {
-            "Malešické náměstí": {
-                "distance_km": 0.4995799999999999,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.087485,
-        "longitude": 14.506815
-    },
     "Rembrandtova": {
         "connections": {
             "Královická": {
@@ -12002,16 +11402,6 @@
         },
         "latitude": 50.068185,
         "longitude": 14.512450000000001
-    },
-    "Rohanský ostrov": {
-        "connections": {
-            "Ostrov Štvanice": {
-                "distance_km": 0.18259,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.09696,
-        "longitude": 14.45014
     },
     "Rohožnická": {
         "connections": {
@@ -12081,7 +11471,7 @@
             },
             "V Podbabě": {
                 "distance_km": 0.8763100000000001,
-                "distance_min": 1.96875
+                "distance_min": 1.35546875
             },
             "V Sedlci": {
                 "distance_km": 0.34129999999999994,
@@ -12175,11 +11565,11 @@
         "connections": {
             "Choceradská": {
                 "distance_km": 1.39896,
-                "distance_min": 3.12109375
+                "distance_min": 3.0010337829589844
             },
             "Chodov": {
                 "distance_km": 1.2237299999999998,
-                "distance_min": 1.8665366967519788
+                "distance_min": 1.9038298925201005
             },
             "Dědinova": {
                 "distance_km": 0.5846900000000002,
@@ -12187,7 +11577,7 @@
             },
             "Kačerov": {
                 "distance_km": 1.3398400000000001,
-                "distance_min": 2.083333333333455
+                "distance_min": 2.083333333333414
             }
         },
         "latitude": 50.037620000000004,
@@ -12211,7 +11601,7 @@
         "connections": {
             "Novoštěrboholská": {
                 "distance_km": 1.0507799999999996,
-                "distance_min": 1.9375
+                "distance_min": 1.99609375
             },
             "Svatoňovická": {
                 "distance_km": 0.2824600000000004,
@@ -12224,11 +11614,11 @@
     "Ruská": {
         "connections": {
             "Krymská": {
-                "distance_km": 0.32580500000000007,
+                "distance_km": 0.3258000000000001,
                 "distance_min": 1.0
             },
             "Vršovické náměstí": {
-                "distance_km": 0.4390875000000003,
+                "distance_km": 0.4390850000000004,
                 "distance_min": 2.0
             }
         },
@@ -12238,7 +11628,7 @@
     "Rychnovská": {
         "connections": {
             "Boletická": {
-                "distance_km": 0.19384999999999988,
+                "distance_km": 0.19384999999999997,
                 "distance_min": 1.0
             },
             "Staré Letňany": {
@@ -12369,16 +11759,6 @@
         "latitude": 50.054469999999995,
         "longitude": 14.44256
     },
-    "Sedlec": {
-        "connections": {
-            "Zámky": {
-                "distance_km": 0.16274,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.17218,
-        "longitude": 14.440764999999999
-    },
     "Sedlecký přívoz": {
         "connections": {
             "Roztocká": {
@@ -12425,7 +11805,7 @@
         "connections": {
             "Depo Kačerov": {
                 "distance_km": 0.5462400000000001,
-                "distance_min": 1.185302734375
+                "distance_min": 1.0160205364227295
             },
             "Spořilov": {
                 "distance_km": 0.4303150000000002,
@@ -12467,7 +11847,7 @@
             },
             "Hradčanská": {
                 "distance_km": 0.7689499999999994,
-                "distance_min": 2.2490234375
+                "distance_min": 2.013394355773926
             }
         },
         "latitude": 50.10461,
@@ -12491,7 +11871,7 @@
         "connections": {
             "Depo Hostivař": {
                 "distance_km": 1.04378,
-                "distance_min": 1.9687499999999432
+                "distance_min": 1.9830729166666359
             },
             "Donatellova": {
                 "distance_km": 0.5122200000000006,
@@ -12507,7 +11887,7 @@
             },
             "Strašnická": {
                 "distance_km": 1.389435,
-                "distance_min": 2.638346354166747
+                "distance_min": 2.6811981201172306
             },
             "V Rybníčkách": {
                 "distance_km": 0.3412299999999995,
@@ -12535,7 +11915,7 @@
         "connections": {
             "Novovysočanská": {
                 "distance_km": 0.34811999999999976,
-                "distance_min": 1.474609375
+                "distance_min": 1.117279052734375
             },
             "Odlehlá": {
                 "distance_km": 0.5254600000000007,
@@ -12567,7 +11947,7 @@
             },
             "Myšlínská": {
                 "distance_km": 0.7319899999999997,
-                "distance_min": 2.0291748046875
+                "distance_min": 2.0013999938964844
             },
             "Nádraží Hostivař": {
                 "distance_km": 0.4360300000000006,
@@ -12582,10 +11962,6 @@
             "Náměstí U Lva": {
                 "distance_km": 0.56037,
                 "distance_min": 2.0
-            },
-            "Raichlova": {
-                "distance_km": 0.35426,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.037774999999996,
@@ -12595,7 +11971,7 @@
         "connections": {
             "Bohdalec": {
                 "distance_km": 0.869589375,
-                "distance_min": 2.686279296875
+                "distance_min": 2.38930606842041
             },
             "Bělocerkevská": {
                 "distance_km": 0.40841562500000067,
@@ -12681,7 +12057,7 @@
             },
             "Smržovská": {
                 "distance_km": 0.6211799999999995,
-                "distance_min": 1.25
+                "distance_min": 1.125
             }
         },
         "latitude": 50.089772499999995,
@@ -12721,7 +12097,7 @@
             },
             "Radlická": {
                 "distance_km": 2.1765199999999982,
-                "distance_min": 2.666666666666515
+                "distance_min": 2.666666666666524
             }
         },
         "latitude": 50.06140494461059,
@@ -12729,10 +12105,6 @@
     },
     "Sobín": {
         "connections": {
-            "Hostivice,Na Pískách": {
-                "distance_km": 1.02325,
-                "distance_min": 2.0
-            },
             "Valtická": {
                 "distance_km": 0.34462000000000037,
                 "distance_min": 1.0
@@ -12763,7 +12135,7 @@
             },
             "Radiová": {
                 "distance_km": 1.0570950000000003,
-                "distance_min": 2.875
+                "distance_min": 2.53125
             }
         },
         "latitude": 50.080185,
@@ -12795,7 +12167,7 @@
             },
             "Podbělohorská": {
                 "distance_km": 0.4914399999999999,
-                "distance_min": 1.25
+                "distance_min": 1.052734375
             }
         },
         "latitude": 50.07717,
@@ -12812,7 +12184,7 @@
                 "distance_min": 1.0
             },
             "Pod Táborem": {
-                "distance_km": 0.95985375,
+                "distance_km": 0.9598575000000006,
                 "distance_min": 2.0
             }
         },
@@ -12823,7 +12195,7 @@
         "connections": {
             "Sídliště Jahodnice": {
                 "distance_km": 0.7244999999999999,
-                "distance_min": 1.875
+                "distance_min": 1.84375
             },
             "Za Horou": {
                 "distance_km": 0.5954299999999999,
@@ -12865,7 +12237,7 @@
         "connections": {
             "Hlavní": {
                 "distance_km": 0.5393399999999993,
-                "distance_min": 1.1845703125
+                "distance_min": 1.0318164825439453
             },
             "Lešanská": {
                 "distance_km": 0.7525600000000003,
@@ -12952,7 +12324,7 @@
                 "distance_min": 1.0
             },
             "Malostranská": {
-                "distance_km": 0.7759450000000001,
+                "distance_km": 0.7759475,
                 "distance_min": 1.4166666666667425
             },
             "Mariánské náměstí": {
@@ -12961,7 +12333,7 @@
             },
             "Můstek": {
                 "distance_km": 0.7490000000000006,
-                "distance_min": 1.615890502929582
+                "distance_min": 1.6310273210206447
             },
             "Právnická fakulta": {
                 "distance_km": 0.21276,
@@ -12988,7 +12360,7 @@
                 "distance_min": 1.0
             },
             "Rychnovská": {
-                "distance_km": 0.4651300000000001,
+                "distance_km": 0.46513,
                 "distance_min": 1.0
             },
             "Toužimská": {
@@ -13007,7 +12379,7 @@
             },
             "Nádraží Ruzyně": {
                 "distance_km": 0.44546000000000063,
-                "distance_min": 1.234375
+                "distance_min": 1.0093994140625
             }
         },
         "latitude": 50.08185,
@@ -13061,10 +12433,6 @@
     },
     "Starý Zličín": {
         "connections": {
-            "Blatnická": {
-                "distance_km": 1.0170600000000003,
-                "distance_min": 2.0
-            },
             "Halenkovská": {
                 "distance_km": 0.58446,
                 "distance_min": 1.0
@@ -13119,7 +12487,7 @@
             },
             "Statenice,U Kovárny": {
                 "distance_km": 0.9478399999999993,
-                "distance_min": 2.0
+                "distance_min": 1.8359375
             },
             "Statenice,Černý Vůl": {
                 "distance_km": 0.6241699999999994,
@@ -13133,7 +12501,7 @@
         "connections": {
             "Luka": {
                 "distance_km": 1.1230900000000001,
-                "distance_min": 1.7499998410542807
+                "distance_min": 1.7499999999951494
             },
             "Lýskova": {
                 "distance_km": 0.5015999999999998,
@@ -13167,15 +12535,15 @@
             },
             "Skalka": {
                 "distance_km": 1.3054299999999994,
-                "distance_min": 2.25
+                "distance_min": 2.3125
             },
             "Štěchovická": {
                 "distance_km": 0.7034099999999999,
                 "distance_min": 2.0
             },
             "Želivského": {
-                "distance_km": 1.235885,
-                "distance_min": 2.055013020833358
+                "distance_km": 1.2358850000000001,
+                "distance_min": 2.0978647867837923
             }
         },
         "latitude": 50.07290140625,
@@ -13189,7 +12557,7 @@
             },
             "Sídliště Řepy": {
                 "distance_km": 0.9968599999999999,
-                "distance_min": 3.2490234375
+                "distance_min": 3.1209182739257812
             }
         },
         "latitude": 50.065905,
@@ -13199,7 +12567,7 @@
         "connections": {
             "Kamenická": {
                 "distance_km": 0.37273000000000067,
-                "distance_min": 1.615234375
+                "distance_min": 1.5311203002929688
             },
             "Nábřeží Kapitána Jaroše": {
                 "distance_km": 0.3769399999999997,
@@ -13257,7 +12625,7 @@
             },
             "Prosek": {
                 "distance_km": 1.122880000000002,
-                "distance_min": 1.6666666666665448
+                "distance_min": 1.6666666666665861
             },
             "Sídliště Prosek": {
                 "distance_km": 0.5704900000000002,
@@ -13307,11 +12675,7 @@
         "connections": {
             "Jílové u Prahy,Rozc.Radlík": {
                 "distance_km": 4.78904,
-                "distance_min": 7.0
-            },
-            "Sulice,Hlubočinka": {
-                "distance_km": 2.09504,
-                "distance_min": 2.0
+                "distance_min": 6.9609375
             }
         },
         "latitude": 49.923655,
@@ -13322,10 +12686,6 @@
             "Sulice": {
                 "distance_km": 2.1210500000000003,
                 "distance_min": 2.0
-            },
-            "Sulice,Hlubočinka,Obchodní centrum": {
-                "distance_km": 0.7839399999999994,
-                "distance_min": 1.0
             }
         },
         "latitude": 49.933915,
@@ -13333,10 +12693,6 @@
     },
     "Sulice,Hlubočinka,Obchodní centrum": {
         "connections": {
-            "Jesenice": {
-                "distance_km": 4.400970000000001,
-                "distance_min": 5.0
-            },
             "Sulice,Hlubočinka": {
                 "distance_km": 0.6081400000000006,
                 "distance_min": 1.0
@@ -13517,10 +12873,10 @@
         "connections": {
             "Tempo": {
                 "distance_km": 0.3249550000000003,
-                "distance_min": 1.31201171875
+                "distance_min": 1.0448892712593079
             },
             "Zálesí": {
-                "distance_km": 0.4639900000000003,
+                "distance_km": 0.46399000000000024,
                 "distance_min": 1.0
             }
         },
@@ -13544,7 +12900,7 @@
     "Sídliště Letňany": {
         "connections": {
             "Avia Letňany": {
-                "distance_km": 0.6853474999999998,
+                "distance_km": 0.6853499999999997,
                 "distance_min": 1.0
             },
             "Fryčovická": {
@@ -13553,7 +12909,7 @@
             },
             "Trutnovská": {
                 "distance_km": 0.4798199999999997,
-                "distance_min": 1.375
+                "distance_min": 1.203125
             }
         },
         "latitude": 50.14272,
@@ -13598,11 +12954,11 @@
     "Sídliště Malešice": {
         "connections": {
             "Limuzská": {
-                "distance_km": 0.5271274999999997,
+                "distance_km": 0.5271249999999998,
                 "distance_min": 2.0
             },
             "Malešické náměstí": {
-                "distance_km": 0.26571,
+                "distance_km": 0.38763500000000073,
                 "distance_min": 2.0
             },
             "Plaňanská": {
@@ -13612,10 +12968,6 @@
             "Sídliště Malešice": {
                 "distance_km": 0.10954,
                 "distance_min": 1.0
-            },
-            "Černická": {
-                "distance_km": 0.5205900000000003,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.082971875,
@@ -13685,7 +13037,7 @@
             },
             "Krčský hřbitov": {
                 "distance_km": 0.5545499999999999,
-                "distance_min": 1.0615234375
+                "distance_min": 1.002760887145996
             },
             "Pankrác": {
                 "distance_km": 0.43232750000000014,
@@ -13743,7 +13095,7 @@
         "connections": {
             "Prosek": {
                 "distance_km": 0.46753999999999984,
-                "distance_min": 1.52978515625
+                "distance_min": 1.4396419525146484
             },
             "Střížkov": {
                 "distance_km": 0.4256100000000008,
@@ -13756,7 +13108,7 @@
     "Sídliště Písnice": {
         "connections": {
             "U Libušské sokolovny": {
-                "distance_km": 0.4727100000000003,
+                "distance_km": 0.4727100000000005,
                 "distance_min": 1.0
             },
             "U Studánky": {
@@ -13798,12 +13150,12 @@
                 "distance_min": 1.0
             },
             "Sídliště Spořilov": {
-                "distance_km": 0.17756500000000003,
+                "distance_km": 0.1775624999999999,
                 "distance_min": 1.0
             },
             "U Lípy": {
                 "distance_km": 0.6985999999999999,
-                "distance_min": 1.328125
+                "distance_min": 1.0712890625
             }
         },
         "latitude": 50.047790000000006,
@@ -13836,12 +13188,12 @@
     "Sídliště Zličín": {
         "connections": {
             "Halenkovská": {
-                "distance_km": 0.5713999999999999,
+                "distance_km": 0.5714100000000002,
                 "distance_min": 1.0
             },
             "Zličín": {
                 "distance_km": 1.0943499999999995,
-                "distance_min": 3.5
+                "distance_min": 3.0859375
             }
         },
         "latitude": 50.060145,
@@ -13882,7 +13234,7 @@
                 "distance_min": 1.5
             },
             "Čimice": {
-                "distance_km": 0.4063800000000002,
+                "distance_km": 0.40638,
                 "distance_min": 1.0
             }
         },
@@ -13925,11 +13277,11 @@
         "connections": {
             "Rokycanova": {
                 "distance_km": 0.3507,
-                "distance_min": 1.875
+                "distance_min": 1.9375
             },
             "U Památníku": {
                 "distance_km": 0.53233,
-                "distance_min": 1.8779296875
+                "distance_min": 1.5497817993164062
             },
             "Černínova": {
                 "distance_km": 0.75395,
@@ -13964,7 +13316,7 @@
                 "distance_min": 1.0
             },
             "Sídliště Krč": {
-                "distance_km": 0.33882999999999985,
+                "distance_km": 0.33882999999999996,
                 "distance_min": 1.0
             }
         },
@@ -14003,7 +13355,7 @@
         "connections": {
             "Chodovská": {
                 "distance_km": 0.4131199999999997,
-                "distance_min": 1.764892578125
+                "distance_min": 1.45112943649292
             },
             "Spořilov": {
                 "distance_km": 0.6541412500000001,
@@ -14068,7 +13420,7 @@
     "Terminál 3": {
         "connections": {
             "K Letišti": {
-                "distance_km": 0.3623100000000008,
+                "distance_km": 0.5062375,
                 "distance_min": 1.0
             },
             "Na Padesátníku": {
@@ -14101,7 +13453,7 @@
         "connections": {
             "Perlit": {
                 "distance_km": 0.60575,
-                "distance_min": 1.9375
+                "distance_min": 1.99609375
             },
             "Teplárna Malešice": {
                 "distance_km": 0.642059999999999,
@@ -14153,16 +13505,6 @@
         "latitude": 50.1362375,
         "longitude": 14.522865
     },
-    "Továrny Hostivař": {
-        "connections": {
-            "U Továren": {
-                "distance_km": 0.16034999999999933,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.05637,
-        "longitude": 14.542615000000001
-    },
     "Troja": {
         "connections": {
             "Císařský ostrov": {
@@ -14213,10 +13555,6 @@
             },
             "Obchodní centrum Čakovice": {
                 "distance_km": 0.6222699999999985,
-                "distance_min": 2.0
-            },
-            "Sídliště Letňany": {
-                "distance_km": 0.5436100000000001,
                 "distance_min": 2.0
             }
         },
@@ -14283,7 +13621,7 @@
         "connections": {
             "Bílá labuť": {
                 "distance_km": 0.2465900000000003,
-                "distance_min": 1.984375
+                "distance_min": 1.999755859375
             },
             "Štvanice": {
                 "distance_km": 0.43319999999999936,
@@ -14301,7 +13639,7 @@
             },
             "Sídliště Ďáblice": {
                 "distance_km": 0.4493799999999979,
-                "distance_min": 1.625
+                "distance_min": 1.265625
             },
             "Třebenická": {
                 "distance_km": 0.18114000000000008,
@@ -14332,15 +13670,11 @@
     "Třebešín": {
         "connections": {
             "Malešická": {
-                "distance_km": 0.28500000000000003,
+                "distance_km": 0.2849999999999999,
                 "distance_min": 1.0
             },
             "Na Palouku": {
                 "distance_km": 0.7830549999999996,
-                "distance_min": 2.0
-            },
-            "Pod Třebešínem": {
-                "distance_km": 0.7519100000000003,
                 "distance_min": 2.0
             },
             "Červený dvůr": {
@@ -14350,26 +13684,6 @@
         },
         "latitude": 50.084165,
         "longitude": 14.481855
-    },
-    "Třebonice": {
-        "connections": {
-            "K Třebonicům": {
-                "distance_km": 2.16152,
-                "distance_min": 3.0
-            }
-        },
-        "latitude": 50.04513,
-        "longitude": 14.28054
-    },
-    "Třeboradice": {
-        "connections": {
-            "Králova": {
-                "distance_km": 0.40816,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.162703750000006,
-        "longitude": 14.524977499999999
     },
     "U Belárie": {
         "connections": {
@@ -14390,10 +13704,6 @@
             "Králova": {
                 "distance_km": 0.6185299999999998,
                 "distance_min": 2.0
-            },
-            "Čakovice": {
-                "distance_km": 0.48102,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.15531,
@@ -14448,7 +13758,7 @@
                 "distance_min": 8.0
             },
             "Na Padesátníku": {
-                "distance_km": 1.4309999999999974,
+                "distance_km": 1.4309899999999998,
                 "distance_min": 2.0
             },
             "Terminál 1": {
@@ -14467,7 +13777,7 @@
         "connections": {
             "Dobeška": {
                 "distance_km": 0.37132999999999994,
-                "distance_min": 1.123046875
+                "distance_min": 1.0136489868164062
             },
             "U Školy": {
                 "distance_km": 0.4162700000000008,
@@ -14569,7 +13879,7 @@
             },
             "Lísek": {
                 "distance_km": 1.0465900000000001,
-                "distance_min": 2.0615234375
+                "distance_min": 2.0038833618164062
             },
             "Nemocnice Krč": {
                 "distance_km": 0.6048800000000001,
@@ -14613,10 +13923,6 @@
                 "distance_km": 0.4838199999999998,
                 "distance_min": 1.0
             },
-            "Libuš": {
-                "distance_km": 0.36999999999999994,
-                "distance_min": 2.0
-            },
             "Sídliště Písnice": {
                 "distance_km": 0.43481000000000014,
                 "distance_min": 1.0
@@ -14633,7 +13939,7 @@
             },
             "Poliklinika Modřany": {
                 "distance_km": 0.6455099999999998,
-                "distance_min": 1.984375
+                "distance_min": 1.7216796875
             }
         },
         "latitude": 50.0060175,
@@ -14689,7 +13995,7 @@
         "connections": {
             "Karlovo náměstí": {
                 "distance_km": 0.7332899999999998,
-                "distance_min": 2.9375
+                "distance_min": 2.99609375
             },
             "Větrov": {
                 "distance_km": 0.3033100000000002,
@@ -14707,7 +14013,7 @@
             },
             "Stadion Strahov": {
                 "distance_km": 0.5873400000000002,
-                "distance_min": 1.123046875
+                "distance_min": 1.0104904174804688
             }
         },
         "latitude": 50.077195,
@@ -14757,16 +14063,12 @@
     },
     "U Spojů": {
         "connections": {
-            "Klášterecká": {
-                "distance_km": 1.46542,
-                "distance_min": 1.0
-            },
             "Liběchovská": {
                 "distance_km": 0.46675999999999995,
                 "distance_min": 1.0
             },
             "Na Štamberku": {
-                "distance_km": 0.27020999999999984,
+                "distance_km": 0.27021000000000006,
                 "distance_min": 1.0
             }
         },
@@ -14811,21 +14113,11 @@
         "latitude": 49.998525,
         "longitude": 14.482804999999999
     },
-    "U Střediska": {
-        "connections": {
-            "Za Nadjezdem": {
-                "distance_km": 0.6514100000000003,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.058615,
-        "longitude": 14.5575025
-    },
     "U Tabulky": {
         "connections": {
             "Chvaly": {
                 "distance_km": 1.03754,
-                "distance_min": 2.96875
+                "distance_min": 2.984375
             },
             "Logistická zóna Horní Počernice": {
                 "distance_km": 0.8192499999999998,
@@ -14834,16 +14126,6 @@
         },
         "latitude": 50.117864999999995,
         "longitude": 14.60246
-    },
-    "U Továren": {
-        "connections": {
-            "V Nových domcích": {
-                "distance_km": 0.4660700000000002,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.056407500000006,
-        "longitude": 14.54007
     },
     "U Trezorky": {
         "connections": {
@@ -14868,10 +14150,6 @@
             "Dobronická": {
                 "distance_km": 0.4535499999999999,
                 "distance_min": 1.0
-            },
-            "IKEM": {
-                "distance_km": 1.7629300000000008,
-                "distance_min": 3.0
             },
             "Kunratická škola": {
                 "distance_km": 0.3789250000000006,
@@ -14929,10 +14207,6 @@
     },
     "U Zvoničky": {
         "connections": {
-            "Jalodvorská": {
-                "distance_km": 0.4325699999999999,
-                "distance_min": 1.0
-            },
             "Libuš": {
                 "distance_km": 0.3264199999999997,
                 "distance_min": 1.0
@@ -14959,7 +14233,7 @@
         "connections": {
             "Dvorce": {
                 "distance_km": 0.7162699999999997,
-                "distance_min": 2.123046875
+                "distance_min": 2.002613067626953
             },
             "U Háje": {
                 "distance_km": 0.3901,
@@ -14977,25 +14251,11 @@
             },
             "Kloboučnická": {
                 "distance_km": 0.9024300000000003,
-                "distance_min": 2.123046875
+                "distance_min": 2.010150909423828
             }
         },
         "latitude": 50.064994999999996,
         "longitude": 14.452525
-    },
-    "Univerzitní": {
-        "connections": {
-            "Malešický park": {
-                "distance_km": 0.4377300000000002,
-                "distance_min": 1.0
-            },
-            "Rektorská": {
-                "distance_km": 0.6833099999999996,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.085224999999994,
-        "longitude": 14.50248
     },
     "Urbanova": {
         "connections": {
@@ -15018,22 +14278,12 @@
                 "distance_min": 2.0
             },
             "Křižíkova": {
-                "distance_km": 0.3475399999999996,
+                "distance_km": 0.34753999999999974,
                 "distance_min": 1.0
             }
         },
         "latitude": 50.095195000000004,
         "longitude": 14.45674
-    },
-    "V Chotejně": {
-        "connections": {
-            "Myšlínská": {
-                "distance_km": 0.49484999999999957,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.0583325,
-        "longitude": 14.53383
     },
     "V Korytech": {
         "connections": {
@@ -15052,11 +14302,11 @@
     "V Kratinách": {
         "connections": {
             "Dvořákova": {
-                "distance_km": 0.41552500000000014,
+                "distance_km": 0.4155199999999999,
                 "distance_min": 1.0
             },
             "Osecká": {
-                "distance_km": 0.43814999999999993,
+                "distance_km": 0.43815000000000004,
                 "distance_min": 1.0
             }
         },
@@ -15101,16 +14351,6 @@
         "latitude": 50.020185,
         "longitude": 14.4078
     },
-    "V Nových domcích": {
-        "connections": {
-            "V Chotejně": {
-                "distance_km": 0.22112000000000087,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.0565425,
-        "longitude": 14.5338075
-    },
     "V Násypu": {
         "connections": {
             "Nad Zlíchovem": {
@@ -15123,10 +14363,6 @@
     },
     "V Podbabě": {
         "connections": {
-            "Břetislavka": {
-                "distance_km": 0.44814,
-                "distance_min": 2.0
-            },
             "Podhoří": {
                 "distance_km": 0.16819,
                 "distance_min": 2.0
@@ -15151,7 +14387,7 @@
             },
             "Štěchovická": {
                 "distance_km": 0.6018699999999999,
-                "distance_min": 1.21875
+                "distance_min": 1.013671875
             }
         },
         "latitude": 50.070595,
@@ -15197,7 +14433,7 @@
             },
             "Lhotka": {
                 "distance_km": 0.5573500000000005,
-                "distance_min": 1.21875
+                "distance_min": 1.0224609375
             }
         },
         "latitude": 50.02259,
@@ -15206,12 +14442,8 @@
     "Vackov": {
         "connections": {
             "Habrová": {
-                "distance_km": 0.3977299999999999,
+                "distance_km": 0.3977299999999997,
                 "distance_min": 1.0
-            },
-            "Malešická": {
-                "distance_km": 0.38485999999999987,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.086895,
@@ -15264,10 +14496,6 @@
             "Blatnická": {
                 "distance_km": 0.4075399999999991,
                 "distance_min": 1.0
-            },
-            "Sobín": {
-                "distance_km": 0.28647,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.065965000000006,
@@ -15292,10 +14520,6 @@
             "K Třebonicům": {
                 "distance_km": 0.6912099999999999,
                 "distance_min": 1.0
-            },
-            "Řeporyjské náměstí": {
-                "distance_km": 0.7218300000000002,
-                "distance_min": 2.0
             }
         },
         "latitude": 50.03509,
@@ -15343,7 +14567,7 @@
             },
             "Velké Přílepy,Pražská": {
                 "distance_km": 0.6883900000000001,
-                "distance_min": 1.0625
+                "distance_min": 1.015625
             }
         },
         "latitude": 50.160455,
@@ -15375,10 +14599,6 @@
     },
     "Vestec,Obchodní centrum": {
         "connections": {
-            "Vestec,Safina": {
-                "distance_km": 0.22316000000000003,
-                "distance_min": 1.0
-            },
             "Vestec,Šátalka": {
                 "distance_km": 0.6561799999999991,
                 "distance_min": 1.0
@@ -15389,10 +14609,6 @@
     },
     "Vestec,Safina": {
         "connections": {
-            "Pramenná": {
-                "distance_km": 1.1688500000000026,
-                "distance_min": 2.0
-            },
             "Vestec,Obchodní centrum": {
                 "distance_km": 0.24035000000000117,
                 "distance_min": 1.0
@@ -15406,10 +14622,6 @@
             "Jesenice,Bytovky": {
                 "distance_km": 1.1898999999999997,
                 "distance_min": 2.0
-            },
-            "Vestec,Obchodní centrum": {
-                "distance_km": 0.6850899999999989,
-                "distance_min": 1.0
             }
         },
         "latitude": 49.978275,
@@ -15433,7 +14645,7 @@
             },
             "Jiřího z Poděbrad": {
                 "distance_km": 0.5247900000000003,
-                "distance_min": 1.984375
+                "distance_min": 1.4998779296875
             }
         },
         "latitude": 50.07706,
@@ -15447,7 +14659,7 @@
             },
             "Šumavská": {
                 "distance_km": 0.36782000000000004,
-                "distance_min": 1.7109375
+                "distance_min": 1.49945068359375
             }
         },
         "latitude": 50.0754,
@@ -15501,7 +14713,7 @@
         "connections": {
             "Nádraží Krč": {
                 "distance_km": 0.5541200000000002,
-                "distance_min": 1.21875
+                "distance_min": 1.021484375
             },
             "Zálesí": {
                 "distance_km": 0.42837999999999976,
@@ -15547,7 +14759,7 @@
             },
             "Volyňská": {
                 "distance_km": 0.6136000000000004,
-                "distance_min": 2.875
+                "distance_min": 2.9375
             }
         },
         "latitude": 50.074394999999996,
@@ -15571,11 +14783,11 @@
         "connections": {
             "Florenc": {
                 "distance_km": 1.189779999999999,
-                "distance_min": 2.083333333333343
+                "distance_min": 2.0833333333334245
             },
             "Nádraží Holešovice": {
                 "distance_km": 1.0327699999999993,
-                "distance_min": 1.8333333333332584
+                "distance_min": 1.8333333333333144
             },
             "Pražská tržnice": {
                 "distance_km": 0.41044999999999926,
@@ -15657,7 +14869,7 @@
             },
             "Vlašimská": {
                 "distance_km": 0.45411,
-                "distance_min": 2.21875
+                "distance_min": 2.013671875
             }
         },
         "latitude": 50.07361,
@@ -15670,7 +14882,7 @@
                 "distance_min": 2.0
             },
             "U Kříže": {
-                "distance_km": 0.4179200000000001,
+                "distance_km": 0.4179200000000002,
                 "distance_min": 1.0
             }
         },
@@ -15850,7 +15062,7 @@
     "Vršovické náměstí": {
         "connections": {
             "Ruská": {
-                "distance_km": 0.4377000000000002,
+                "distance_km": 0.4377000000000004,
                 "distance_min": 1.0
             },
             "Čechovo náměstí": {
@@ -15921,7 +15133,7 @@
             },
             "Pod Dálnicí": {
                 "distance_km": 0.41525500000000015,
-                "distance_min": 1.123046875
+                "distance_min": 1.0113697052001953
             }
         },
         "latitude": 50.048432500000004,
@@ -15945,14 +15157,14 @@
             },
             "Kolbenova": {
                 "distance_km": 1.1208899999999993,
-                "distance_min": 1.7499998410542805
+                "distance_min": 1.7499999999951492
             },
             "Nad Jetelkou": {
                 "distance_km": 1.118219999999999,
                 "distance_min": 2.0
             },
             "Nádraží Libeň": {
-                "distance_km": 1.0963699999999994,
+                "distance_km": 1.0963699999999996,
                 "distance_min": 3.0
             },
             "Nádraží Vysočany": {
@@ -15965,7 +15177,7 @@
             },
             "Prosek": {
                 "distance_km": 1.8490800000000007,
-                "distance_min": 4.349609375
+                "distance_min": 4.086029052734375
             },
             "Českomoravská": {
                 "distance_km": 0.8049200000000001,
@@ -15997,7 +15209,7 @@
         "connections": {
             "Malvazinky": {
                 "distance_km": 0.39636000000000005,
-                "distance_min": 1.9990234375
+                "distance_min": 1.1249523162841797
             },
             "Santoška": {
                 "distance_km": 0.4568699999999999,
@@ -16014,7 +15226,7 @@
                 "distance_min": 1.0
             },
             "Vodičkova": {
-                "distance_km": 0.2892100000000003,
+                "distance_km": 0.28921,
                 "distance_min": 1.0
             }
         },
@@ -16092,8 +15304,8 @@
                 "distance_min": 1.0
             },
             "Letňany": {
-                "distance_km": 0.5354900000000002,
-                "distance_min": 1.0
+                "distance_km": 0.49711000000000005,
+                "distance_min": 1.0394210815429688
             }
         },
         "latitude": 50.128497499999995,
@@ -16110,7 +15322,7 @@
                 "distance_min": 1.0
             },
             "Podolská vodárna": {
-                "distance_km": 1.1168762499999998,
+                "distance_km": 1.1168724999999993,
                 "distance_min": 4.0
             }
         },
@@ -16124,7 +15336,7 @@
                 "distance_min": 1.0
             },
             "V Podbabě": {
-                "distance_km": 0.67497,
+                "distance_km": 0.6749699999999998,
                 "distance_min": 1.0
             }
         },
@@ -16236,11 +15448,11 @@
     "Za Avií": {
         "connections": {
             "Cukrovar Čakovice": {
-                "distance_km": 0.3675125000000008,
+                "distance_km": 0.3675150000000005,
                 "distance_min": 1.0
             },
             "Obchodní centrum Čakovice": {
-                "distance_km": 0.46244062499999994,
+                "distance_km": 0.4624425,
                 "distance_min": 2.0
             },
             "Čakovický zámek": {
@@ -16255,11 +15467,11 @@
         "connections": {
             "Kolonie": {
                 "distance_km": 0.6489799999999997,
-                "distance_min": 1.875
+                "distance_min": 1.484375
             },
             "Pávovské náměstí": {
                 "distance_km": 0.394555,
-                "distance_min": 1.4375
+                "distance_min": 1.2890625
             },
             "Spolská": {
                 "distance_km": 0.4506899999999998,
@@ -16273,20 +15485,10 @@
         "latitude": 50.092200000000005,
         "longitude": 14.535345
     },
-    "Za Nadjezdem": {
-        "connections": {
-            "Továrny Hostivař": {
-                "distance_km": 0.46391000000000027,
-                "distance_min": 1.0
-            }
-        },
-        "latitude": 50.0569225,
-        "longitude": 14.5485975
-    },
     "Za Pavilonem": {
         "connections": {
             "Lázeňka": {
-                "distance_km": 0.5279849999999997,
+                "distance_km": 0.5279799999999994,
                 "distance_min": 1.0
             },
             "Škola Dubeč": {
@@ -16361,7 +15563,7 @@
             },
             "Na Padesátém": {
                 "distance_km": 0.5133124999999996,
-                "distance_min": 1.1884765625
+                "distance_min": 1.02459716796875
             },
             "Sídliště Zahradní Město": {
                 "distance_km": 0.69191,
@@ -16431,15 +15633,15 @@
             },
             "Jiráskovo náměstí": {
                 "distance_km": 0.78782,
-                "distance_min": 2.984375
+                "distance_min": 2.99951171875
             },
             "Palackého náměstí": {
-                "distance_km": 0.5262340624999998,
+                "distance_km": 0.5262343749999998,
                 "distance_min": 2.0
             },
             "Palackého náměstí (nábřeží)": {
                 "distance_km": 0.5489299999999999,
-                "distance_min": 1.4921875
+                "distance_min": 1.24993896484375
             }
         },
         "latitude": 50.072415,
@@ -16485,7 +15687,7 @@
         "connections": {
             "Zbuzany,Nádraží": {
                 "distance_km": 0.5547399999999998,
-                "distance_min": 1.6875
+                "distance_min": 1.59765625
             }
         },
         "latitude": 50.02322,
@@ -16521,7 +15723,7 @@
             },
             "Nádraží Podbaba": {
                 "distance_km": 0.4760799999999996,
-                "distance_min": 1.615234375
+                "distance_min": 1.2733078002929688
             }
         },
         "latitude": 50.10739625000001,
@@ -16535,7 +15737,7 @@
             },
             "Pankrác": {
                 "distance_km": 0.5377100000000006,
-                "distance_min": 2.123046875
+                "distance_min": 2.0131607055664062
             }
         },
         "latitude": 50.048605,
@@ -16559,7 +15761,7 @@
         "connections": {
             "Na Planině": {
                 "distance_km": 0.22858,
-                "distance_min": 0.5615234375
+                "distance_min": 0.5076541900634766
             }
         },
         "latitude": 50.03927,
@@ -16600,11 +15802,11 @@
     "Zhořelecká": {
         "connections": {
             "Krakov": {
-                "distance_km": 0.3276750000000008,
+                "distance_km": 0.3276800000000004,
                 "distance_min": 1.0
             },
             "Odra": {
-                "distance_km": 0.46471999999999997,
+                "distance_km": 0.4647199999999999,
                 "distance_min": 1.0
             },
             "Sídliště Bohnice": {
@@ -16631,7 +15833,7 @@
             },
             "Stodůlky": {
                 "distance_km": 1.47177,
-                "distance_min": 2.0833333333333144
+                "distance_min": 2.083333333333286
             },
             "Sídliště Zličín": {
                 "distance_km": 1.1441599999999998,
@@ -16713,7 +15915,7 @@
         "connections": {
             "Pražská čtvrť": {
                 "distance_km": 0.4276300000000006,
-                "distance_min": 1.05078125
+                "distance_min": 1.000640869140625
             },
             "Štěpařská": {
                 "distance_km": 0.35923000000000005,
@@ -16748,16 +15950,6 @@
         },
         "latitude": 50.028530234375,
         "longitude": 14.451001953125001
-    },
-    "Zámky": {
-        "connections": {
-            "Sedlec": {
-                "distance_km": 0.16274,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.136489999999995,
-        "longitude": 14.3947
     },
     "Zátišská": {
         "connections": {
@@ -16855,7 +16047,7 @@
         "connections": {
             "Únětice,Obecní úřad": {
                 "distance_km": 0.64267,
-                "distance_min": 1.25
+                "distance_min": 1.0625
             }
         },
         "latitude": 50.15182,
@@ -16866,10 +16058,6 @@
             "Horoměřice,Lidl": {
                 "distance_km": 1.2453000000000003,
                 "distance_min": 2.0
-            },
-            "Únětice,Obecní úřad": {
-                "distance_km": 0.3113600000000005,
-                "distance_min": 1.0
             }
         },
         "latitude": 50.148655000000005,
@@ -16877,13 +16065,9 @@
     },
     "Únětice,Obecní úřad": {
         "connections": {
-            "Únětice": {
-                "distance_km": 0.5548899999999986,
-                "distance_min": 2.0
-            },
             "Únětice,Na Parcelách": {
                 "distance_km": 0.33833,
-                "distance_min": 1.25
+                "distance_min": 1.0625
             }
         },
         "latitude": 50.15035,
@@ -16921,7 +16105,7 @@
             },
             "Průmyslová": {
                 "distance_km": 0.6033399999999997,
-                "distance_min": 1.84375
+                "distance_min": 1.966796875
             }
         },
         "latitude": 50.06986,
@@ -16939,10 +16123,6 @@
     },
     "Čakovice": {
         "connections": {
-            "Náměstí Jiřího Berana": {
-                "distance_km": 0.49815499999999996,
-                "distance_min": 2.0
-            },
             "Oderská": {
                 "distance_km": 0.58534,
                 "distance_min": 2.0
@@ -17045,7 +16225,7 @@
             },
             "Malostranská": {
                 "distance_km": 0.6991100000000001,
-                "distance_min": 2.984375
+                "distance_min": 2.99951171875
             },
             "Právnická fakulta": {
                 "distance_km": 0.3026399999999996,
@@ -17058,16 +16238,6 @@
         },
         "latitude": 50.09407,
         "longitude": 14.41731
-    },
-    "Černická": {
-        "connections": {
-            "Poliklinika Malešice": {
-                "distance_km": 0.45364999999999966,
-                "distance_min": 2.0
-            }
-        },
-        "latitude": 50.08015,
-        "longitude": 14.50598
     },
     "Černokostelecká": {
         "connections": {
@@ -17087,7 +16257,7 @@
         "connections": {
             "Ohrada": {
                 "distance_km": 0.5692199999999996,
-                "distance_min": 2.482421875
+                "distance_min": 2.117401123046875
             },
             "Rokycanova": {
                 "distance_km": 0.5927900000000008,
@@ -17105,11 +16275,11 @@
         "connections": {
             "Breitcetlova": {
                 "distance_km": 0.4498999999999995,
-                "distance_min": 1.9375
+                "distance_min": 1.837890625
             },
             "Chvaly": {
                 "distance_km": 2.1704749999999997,
-                "distance_min": 3.96875
+                "distance_min": 3.998046875
             },
             "IKEA Černý Most": {
                 "distance_km": 1.8607,
@@ -17117,7 +16287,7 @@
             },
             "Obchodní centrum Černý Most": {
                 "distance_km": 1.60643,
-                "distance_min": 3.9375
+                "distance_min": 3.73828125
             },
             "Poliklinika Černý Most": {
                 "distance_km": 0.4441,
@@ -17125,7 +16295,7 @@
             },
             "Černý Most": {
                 "distance_km": 0.9117168749999998,
-                "distance_min": 2.05859375
+                "distance_min": 2.026611328125
             }
         },
         "latitude": 50.10952471321106,
@@ -17134,7 +16304,7 @@
     "Černý kůň": {
         "connections": {
             "Belárie": {
-                "distance_km": 1.0743900000000006,
+                "distance_km": 1.0743900000000002,
                 "distance_min": 2.0
             },
             "Nádraží Braník": {
@@ -17209,7 +16379,7 @@
         "connections": {
             "Malá Ohrada": {
                 "distance_km": 0.51023,
-                "distance_min": 1.123046875
+                "distance_min": 1.0077323913574219
             },
             "Ohradské náměstí": {
                 "distance_km": 0.21026999999999924,
@@ -17227,7 +16397,7 @@
         "connections": {
             "Perlit": {
                 "distance_km": 0.8052650000000003,
-                "distance_min": 1.90625
+                "distance_min": 1.732421875
             }
         },
         "latitude": 50.09181,
@@ -17251,7 +16421,7 @@
         "connections": {
             "Palmovka": {
                 "distance_km": 1.2790199999999992,
-                "distance_min": 1.8333333333332575
+                "distance_min": 1.8333333333332666
             },
             "Poliklinika Vysočany": {
                 "distance_km": 0.52463,
@@ -17268,11 +16438,11 @@
     "Čimice": {
         "connections": {
             "Libeňská": {
-                "distance_km": 0.35877999999999965,
+                "distance_km": 0.35877999999999993,
                 "distance_min": 1.0
             },
             "Sídliště Čimice": {
-                "distance_km": 0.28627999999999976,
+                "distance_km": 0.28627999999999987,
                 "distance_min": 1.0
             }
         },
@@ -17304,8 +16474,8 @@
                 "distance_min": 3.0
             },
             "Nádraží Podbaba": {
-                "distance_km": 0.38256000000000007,
-                "distance_min": 1.84375
+                "distance_km": 0.38256,
+                "distance_min": 1.744140625
             }
         },
         "latitude": 50.108995,
@@ -17315,10 +16485,6 @@
         "connections": {
             "Kokořínská": {
                 "distance_km": 0.35888999999999993,
-                "distance_min": 1.0
-            },
-            "Na Pramenech": {
-                "distance_km": 0.7119799999999996,
                 "distance_min": 1.0
             },
             "Skládka Ďáblice": {
@@ -17349,10 +16515,6 @@
                 "distance_km": 0.26347999999999994,
                 "distance_min": 1.0
             },
-            "Náměstí U Lva": {
-                "distance_km": 0.40290999999999993,
-                "distance_min": 1.0
-            },
             "Ve Výrech": {
                 "distance_km": 0.6074100000000016,
                 "distance_min": 2.0
@@ -17363,12 +16525,8 @@
     },
     "Řepínská": {
         "connections": {
-            "Katovická": {
-                "distance_km": 0.23325999999999958,
-                "distance_min": 1.0
-            },
             "Libeňská": {
-                "distance_km": 0.304335,
+                "distance_km": 0.3043300000000002,
                 "distance_min": 1.0
             },
             "Podhajská pole": {
@@ -17429,7 +16587,7 @@
         "connections": {
             "Nemocnice Motol": {
                 "distance_km": 0.4310099999999999,
-                "distance_min": 1.12451171875
+                "distance_min": 1.0311574935913086
             },
             "Vypich": {
                 "distance_km": 1.0114,
@@ -17446,7 +16604,7 @@
                 "distance_min": 2.0
             },
             "Motol": {
-                "distance_km": 1.3900906250000005,
+                "distance_km": 1.3900925000000004,
                 "distance_min": 3.0
             },
             "Nušlova": {
@@ -17493,7 +16651,7 @@
             },
             "Sídliště Ďáblice": {
                 "distance_km": 0.6177999999999999,
-                "distance_min": 1.875
+                "distance_min": 1.84375
             },
             "Šimůnkova": {
                 "distance_km": 0.15885000000000016,
@@ -17510,7 +16668,7 @@
                 "distance_min": 1.0
             },
             "Za Pavilonem": {
-                "distance_km": 0.23936499999999983,
+                "distance_km": 0.2393699999999992,
                 "distance_min": 1.0
             }
         },
@@ -17625,7 +16783,7 @@
         "connections": {
             "U Ladronky": {
                 "distance_km": 0.6881949999999994,
-                "distance_min": 1.7109375
+                "distance_min": 1.31298828125
             },
             "Vypich": {
                 "distance_km": 0.49905000000000044,
@@ -17657,7 +16815,7 @@
             },
             "V Rybníčkách": {
                 "distance_km": 0.52304,
-                "distance_min": 1.875
+                "distance_min": 1.6875
             }
         },
         "latitude": 50.072095,
@@ -17681,7 +16839,7 @@
         "connections": {
             "Ládví": {
                 "distance_km": 0.44235625000000045,
-                "distance_min": 1.953125
+                "distance_min": 1.865234375
             },
             "Sídliště Ďáblice": {
                 "distance_km": 0.6265899999999999,
@@ -17702,7 +16860,7 @@
                 "distance_min": 2.0
             },
             "Karlovo náměstí": {
-                "distance_km": 0.20409406250000003,
+                "distance_km": 0.20409812500000019,
                 "distance_min": 1.0
             }
         },
@@ -17791,7 +16949,7 @@
             },
             "Korytná": {
                 "distance_km": 0.5106899999999999,
-                "distance_min": 1.052734375
+                "distance_min": 1.0029525756835938
             }
         },
         "latitude": 50.059895,
@@ -17801,18 +16959,14 @@
         "connections": {
             "Bělocerkevská": {
                 "distance_km": 0.8653700000000001,
-                "distance_min": 2.73388671875
+                "distance_min": 2.70904541015625
             },
             "Flora": {
-                "distance_km": 0.9454950000000002,
-                "distance_min": 1.638346354166623
+                "distance_km": 0.9454950000000001,
+                "distance_min": 1.6825002034504937
             },
             "Mezi Hřbitovy": {
                 "distance_km": 0.5334099999999999,
-                "distance_min": 1.0
-            },
-            "Nemocnice Vinohrady": {
-                "distance_km": 0.47964000000000073,
                 "distance_min": 1.0
             },
             "Olšanské hřbitovy": {
@@ -17820,19 +16974,19 @@
                 "distance_min": 1.0
             },
             "Pod Třebešínem": {
-                "distance_km": 0.7711699999999999,
+                "distance_km": 0.77117,
                 "distance_min": 1.0
             },
             "Strašnická": {
                 "distance_km": 1.2200100000000003,
-                "distance_min": 2.158875783284602
+                "distance_min": 2.205088516231689
             },
             "Vinohradské hřbitovy": {
                 "distance_km": 0.4451150000000008,
                 "distance_min": 1.0
             },
             "Želivského": {
-                "distance_km": 0.24617999999999984,
+                "distance_km": 0.27703000000000033,
                 "distance_min": 1.0
             }
         },
@@ -17843,7 +16997,7 @@
         "connections": {
             "Na Knížecí": {
                 "distance_km": 0.3366699999999998,
-                "distance_min": 2.9990234375
+                "distance_min": 2.2460861206054688
             }
         },
         "latitude": 50.06857,
@@ -17861,10 +17015,6 @@
     },
     "Žákovská": {
         "connections": {
-            "Lysolaje": {
-                "distance_km": 0.43556999999999935,
-                "distance_min": 1.0
-            },
             "Pod Hájem": {
                 "distance_km": 0.77752,
                 "distance_min": 1.0

@@ -16,6 +16,8 @@ class TripStop:
     stop_id_to: str
     distance_km: float
     distance_min: float
+    name_from: str = ""
+    name_to: str = ""
 
     def __eq__(self, other): 
         if not isinstance(other, TripStop):
@@ -80,6 +82,7 @@ class Stop:
 class PidGtfs:
     def __init__(self):
         self._results: dict = {}
+        self._trips: list = []
 
     def calculate(self, start_hour: int = 0, stop_hour: int = 48, trip_frequency_min: int = 1,
                   input_stops: str = "gtfs/stops.txt", input_stop_times: str = "gtfs/stop_times.txt"):
@@ -90,10 +93,13 @@ class PidGtfs:
         trips = self._parse_trips(input_stop_times, start_hour, stop_hour)
 
         print(f"Process trips")
-        trips_len_before = len(trips)
         trips = self._process_trips(trips, trip_frequency_min)
-        trips_len_after = len(trips)
-        print(f"Trips length before was {trips_len_before}, after processing is {trips_len_after}")
+
+        print("Complete trip stops with names")
+        for trip in trips.values():
+            for trip_stop in trip.trip_stops:
+                trip_stop.name_to = stop_ids[trip_stop.stop_id_to].name
+                trip_stop.name_from = stop_ids[trip_stop.stop_id_from].name
 
         print("Fill stop IDs with connections, this can take some time")
         self._fill_stop_ids(stop_ids, trips)
@@ -102,18 +108,27 @@ class PidGtfs:
         stops = self._prepare_stops(stop_ids)
 
         print("Parse the relevant results to JSON")
-        self._to_result_json(stops)
+        self._to_result_json(stops, trips)
 
     def get_results(self) -> dict:
         return self._results
 
-    def save(self, results_json: str = "output/stop_connections.json"):
+    def get_trips(self) -> dict:
+        return self._trips
+
+    def save(self, results_json: str = "output/stop_connections.json", trips_json: str = "output/trip_connections.json"):
         with open(results_json, 'w', encoding="utf8") as f:
             json.dump(self._results, f, ensure_ascii=False, sort_keys=True, indent=4)
 
-    def load(self, results_json: str = "output/stop_connections.json"):
+        with open(trips_json, 'w', encoding="utf8") as f:
+            json.dump(self._trips, f, ensure_ascii=False, sort_keys=True, indent=4)
+
+    def load(self, results_json: str = "output/stop_connections.json", trips_json: str = "output/trip_connections.json"):
         with open(results_json, encoding="utf8") as f:
             self._results = json.load(f)
+
+        with open(trips_json, encoding="utf8") as f:
+            self._trips = json.load(f)
 
     def _parse_stop_ids(self, input_stops: str) -> dict:
         with open(input_stops, encoding="utf8") as f:
@@ -162,7 +177,7 @@ class PidGtfs:
                     if not id in trips:
                         # Prepare new trip, if is in the time period
                         (h, m, s) = departure_time.split(":")
-                        if start_hour < int(h) < stop_hour:
+                        if start_hour <= int(h) <= stop_hour:
                             trips[id] = Trip(id=id)
                         else:
                             id_ignore = id
@@ -250,10 +265,35 @@ class PidGtfs:
 
         return stops
 
-    def _to_result_json(self, stops: dict):
+    def _to_result_json(self, stops: dict, trips: dict):
         self._results = {}
         for stop in stops.values():
             if len(stop.connections) > 0:
                 self._results[stop.name] = {"longitude": stop.lon, "latitude": stop.lat, "connections": {}}
                 for connection in stop.connections.values():
                     self._results[stop.name]["connections"][connection.stop_name] = {"distance_km": connection.distance_km, "distance_min": connection.distance_min}
+
+        self._trips = []
+        for trip in trips.values():
+            one_trip = []
+            for trip_stop in trip.trip_stops:
+                one_trip.append(trip_stop.name_from)
+            one_trip.append(trip.trip_stops[-1].name_to)
+
+            # Lets eliminate duplicates and subsets
+            for final in self._trips:
+                final_set = set(final)
+                trip_set = set(one_trip)
+                if trip_set.issubset(final_set):
+                    # Check for the correct direction
+                    if final.index(one_trip[0]) < final.index(one_trip[-1]):
+                        break
+                elif trip_set.issuperset(final_set):
+                    if one_trip.index(final[0]) < one_trip.index(final[-1]):
+                        self._trips.remove(final)
+                        self._trips.append(one_trip)
+                        break
+
+            else:
+                self._trips.append(one_trip) 
+
