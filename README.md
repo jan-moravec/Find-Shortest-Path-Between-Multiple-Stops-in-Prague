@@ -26,10 +26,14 @@ And if we have more lists for more stops (each one for one of my friends), we ca
 
 ## What to Improve
 
- Currently even some exotic connections and stops are included. I have to add a filter only for common day-time connections.
+<s>Currently even some exotic connections and stops are included. I have to add a filter only for common day-time connections.</s>
 
- The time needed to transfer between connections is not included.
+<s>The time needed to transfer between connections is not included.</s>
+
+All is done! The number of transfers algorithm is just a afterthought, so it does not fit into the design. But it works.
 
 ## Final Thoughts
 
-Now all remains is to select a good pub. Cheers :-).
+It is still just only a estimate and simulation. But the results seems legit. What is ironic is that for me and my friends the best place to meet is right in the center (shocking).
+
+Now all that remains is to select a good pub. Cheers :-).

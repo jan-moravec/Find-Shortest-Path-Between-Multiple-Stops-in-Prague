@@ -20,12 +20,13 @@ L16,99,16,"Sídliště Řepy - Kotlářka - Lehovec",0,"https://pid.cz/linka/16"
 L17,99,17,"Vozovna Kobylisy - Výstaviště Holešovice - Sídliště Modřany",0,"https://pid.cz/linka/17",7A0603,FFFFFF,0
 L18,99,18,"Nádraží Podbaba - Vozovna Pankrác",0,"https://pid.cz/linka/18",7A0603,FFFFFF,0
 L20,99,20,"Divoká Šárka - Sídliště Barrandov",0,"https://pid.cz/linka/20",7A0603,FFFFFF,0
-L21,99,21,"Radlická - Sídliště Modřany",0,"https://pid.cz/linka/21",7A0603,FFFFFF,0
 L22,99,22,"Bílá Hora - Vypich - Nádraží Strašnice - Nádraží Hostivař",0,"https://pid.cz/linka/22",7A0603,FFFFFF,0
 L24,99,24,"Březiněveská - Kubánské náměstí",0,"https://pid.cz/linka/24",7A0603,FFFFFF,0
 L25,99,25,"Bílá Hora - Lehovec",0,"https://pid.cz/linka/25",7A0603,FFFFFF,0
 L26,99,26,"Divoká Šárka - Nádraží Hostivař",0,"https://pid.cz/linka/26",7A0603,FFFFFF,0
 L32,99,32,"Sídliště Barrandov - Hlubočepy - Sídliště Barrandov",0,"https://pid.cz/linka/32",7A0603,FFFFFF,0
+L35,99,35,"Bílá Hora - Špejchar",0,"https://pid.cz/linka/35",7A0603,FFFFFF,0
+L36,99,36,"Vysočanská - Lehovec",0,"https://pid.cz/linka/36",7A0603,FFFFFF,0
 L49,99,LD,"Petřín LD - Újezd LD",7,"https://pid.cz/linka/LD",C9D022,000000,0
 L91,99,91,"Divoká Šárka - Nádraží Strašnice",0,"https://pid.cz/linka/91",7A0603,FFFFFF,1
 L92,99,92,"Levského - Lehovec",0,"https://pid.cz/linka/92",7A0603,FFFFFF,1
@@ -42,8 +43,7 @@ L102,99,102,"Sídliště Bohnice - Kobylisy - Šimůnkova",3,"https://pid.cz/lin
 L103,99,103,"Ládví - Ďáblice - Březiněves",3,"https://pid.cz/linka/103",007DA8,FFFFFF,0
 L105,99,105,"Smíchovské nádraží - Filmové ateliéry - Smíchovské nádraží",3,"https://pid.cz/linka/105",007DA8,FFFFFF,0
 L106,99,106,"Nádraží Braník - Kačerov",3,"https://pid.cz/linka/106",007DA8,FFFFFF,0
-L107,99,107,"Dejvická - Internacionální - Suchdol",3,"https://pid.cz/linka/107",007DA8,FFFFFF,0
-L107_200627,99,107,"Dejvická - Suchdolské náměstí - Suchdol",3,"https://pid.cz/linka/107",007DA8,FFFFFF,0
+L107,99,107,"Dejvická - Suchdolské náměstí - Suchdol",3,"https://pid.cz/linka/107",007DA8,FFFFFF,0
 L108,99,108,"Dejvická - Sídliště Na Dědině",3,"https://pid.cz/linka/108",007DA8,FFFFFF,0
 L109,99,109,"Palmovka - Dolní Počernice - Výzkumné ústavy Běchovice",3,"https://pid.cz/linka/109",007DA8,FFFFFF,0
 L111,99,111,"Skalka - Dubeč - Koloděje",3,"https://pid.cz/linka/111",007DA8,FFFFFF,0
@@ -54,7 +54,6 @@ L118,99,118,"Smíchovské nádraží - Depo Kačerov - Sídliště Spořilov",3,
 L119,99,119,"Nádraží Veleslavín - Letiště / Terminál 1",3,"https://pid.cz/linka/119",007DA8,FFFFFF,0
 L120,99,120,"Na Knížecí - Pod Lochkovem / Nádraží Radotín",3,"https://pid.cz/linka/120",007DA8,FFFFFF,0
 L121,99,121,"Poliklinika Budějovická - Nádraží Braník",3,"https://pid.cz/linka/121",007DA8,FFFFFF,0
-L122,99,122,"Opatov - K Sukovu",3,"https://pid.cz/linka/122",007DA8,FFFFFF,0
 L123,99,123,"Na Knížecí - Šmukýřka",3,"https://pid.cz/linka/123",007DA8,FFFFFF,0
 L124,99,124,"Želivského - Zelený pruh",3,"https://pid.cz/linka/124",007DA8,FFFFFF,0
 L125,99,125,"Smíchovské nádraží - Skalka",3,"https://pid.cz/linka/125",007DA8,FFFFFF,0
@@ -100,7 +99,6 @@ L176,99,176,"Karlovo náměstí - Stadion Strahov",3,"https://pid.cz/linka/176",
 L177,99,177,"Chodov - Skalka - Poliklinika Mazurská",3,"https://pid.cz/linka/177",007DA8,FFFFFF,0
 L180,99,180,"Dejvická - Zličín - Obchodní centrum Zličín",3,"https://pid.cz/linka/180",007DA8,FFFFFF,0
 L181,99,181,"Černý Most - Opatov",3,"https://pid.cz/linka/181",007DA8,FFFFFF,0
-L182,99,182,"Vinoř - Opatov",3,"https://pid.cz/linka/182",007DA8,FFFFFF,0
 L183,99,183,"Vozovna Kobylisy - Háje",3,"https://pid.cz/linka/183",007DA8,FFFFFF,0
 L184,99,184,"Kukulova  - Velká Ohrada",3,"https://pid.cz/linka/184",007DA8,FFFFFF,0
 L185,99,185,"Letňany - Bakovská - Vinoř",3,"https://pid.cz/linka/185",007DA8,FFFFFF,0
@@ -133,22 +131,8 @@ L247,99,247,"Nádraží Radotín - Sídliště Zbraslav",3,"https://pid.cz/linka
 L248,99,248,"Nádraží Radotín - Sídliště Radotín/Viničky - Nádraží Radotín",3,"https://pid.cz/linka/248",007DA8,FFFFFF,0
 L249,99,249,"Zličín - Nový Zličín",3,"https://pid.cz/linka/249",007DA8,FFFFFF,0
 L250,99,250,"Černý Most - Sídliště Rohožník",3,"https://pid.cz/linka/250",007DA8,FFFFFF,0
-L251,99,251,"Sídliště Čimice - Šimůnkova",3,"https://pid.cz/linka/251",007DA8,FFFFFF,0
-L252,99,252,"Ústřední - Morseova",3,"https://pid.cz/linka/252",007DA8,FFFFFF,0
-L255,99,255,"Nebušice - Dejvická",3,"https://pid.cz/linka/255",007DA8,FFFFFF,0
-L256,99,256,"Knovízská - Mokrá",3,"https://pid.cz/linka/256",007DA8,FFFFFF,0
-L259,99,259,"Hostavice - Bazén Hloubětín",3,"https://pid.cz/linka/259",007DA8,FFFFFF,0
-L260,99,260,"Bílá Hora - Na Okraji",3,"https://pid.cz/linka/260",007DA8,FFFFFF,0
-L261,99,261,"Sídliště Zbraslav - Velká Chuchle",3,"https://pid.cz/linka/261",007DA8,FFFFFF,0
-L262,99,262,"Sídliště Rohožník - Ratibořická",3,"https://pid.cz/linka/262",007DA8,FFFFFF,0
-L265,99,265,"Stadion Strahov - Weberova",3,"https://pid.cz/linka/265",007DA8,FFFFFF,0
-L266,99,266,"Nové Butovice - Zadní Kopanina",3,"https://pid.cz/linka/266",007DA8,FFFFFF,0
-L267,99,267,"Habrová - Olšanské náměstí",3,"https://pid.cz/linka/267",007DA8,FFFFFF,0
-L269,99,269,"Otěšínská - Škola Radotín",3,"https://pid.cz/linka/269",007DA8,FFFFFF,0
-L271,99,271,"Správa sociálního zabezpečení - Radlická",3,"https://pid.cz/linka/271",007DA8,FFFFFF,0
-L272,99,272,"Dolnokřeslická - Nádraží Uhříněves",3,"https://pid.cz/linka/272",007DA8,FFFFFF,0
-L275,99,275,"Sídliště Čakovice - Náměstí Jiřího Berana",3,"https://pid.cz/linka/275",007DA8,FFFFFF,0
-L287,99,X120,"Dreyerova - Hlubočepy",3,"https://pid.cz/linka/X120",007DA8,FFFFFF,0
+L289,99,H1,"Chodov - Náměstí Republiky - Chodov",3,"https://pid.cz/linka/H1",007DA8,FFFFFF,0
+L292,99,X172,"Chaplinovo náměstí - Na Hvězdárně",3,"https://pid.cz/linka/X172",007DA8,FFFFFF,0
 L295,99,X195,"Skalka - Jesenická",3,"https://pid.cz/linka/X195",007DA8,FFFFFF,0
 L301,99,301,"Praha, Luka - Chýnice",3,"https://pid.cz/linka/301",007DA8,FFFFFF,0
 L312,99,312,"Praha, Bořislavka - Lichoceves",3,"https://pid.cz/linka/312",007DA8,FFFFFF,0
@@ -162,14 +146,14 @@ L359,99,359,"Praha,Suchdol - Roztoky,Bělina",3,"https://pid.cz/linka/359",007DA
 L363,99,363,"Praha,Opatov - Velké Popovice,Todice",3,"https://pid.cz/linka/363",007DA8,FFFFFF,0
 L364,99,364,"Praha,Depo Hostivař - Doubek",3,"https://pid.cz/linka/364",007DA8,FFFFFF,0
 L366,99,366,"Praha,Depo Hostivař -  Březí,Podskalí",3,"https://pid.cz/linka/366",007DA8,FFFFFF,0
-L799,99,H1,"Chodov - Náměstí Republiky - Chodov",3,"https://pid.cz/linka/H1",007DA8,FFFFFF,0
-L807,99,X7,,3,"https://pid.cz/linka/X7",007DA8,FFFFFF,0
+L807,99,X7,"Strašnická - Vinice",3,"https://pid.cz/linka/X7",007DA8,FFFFFF,0
 L812,99,X12,"Na Knížecí - Hlubočepy - Na Knížecí",3,"https://pid.cz/linka/X12",007DA8,FFFFFF,0
-L825,99,X25,"Palmovka - Libeňský most - Palmovka",3,"https://pid.cz/linka/X25",007DA8,FFFFFF,0
+L816,99,X16,"Želivského - Flora - Želivského",3,"https://pid.cz/linka/X16",007DA8,FFFFFF,0
+L836,99,XC,,3,"https://pid.cz/linka/XC",007DA8,FFFFFF,0
 L874,99,ZOO,"Parking Blanka-Troja - Zoologická zahrada",3,"https://pid.cz/linka/ZOO",007DA8,FFFFFF,0
+L891,99,X91,"Želivského - Flora - Želivského",3,"https://pid.cz/linka/X91",007DA8,FFFFFF,1
 L894,99,X94,"Vysočanská - Lehovec",3,"https://pid.cz/linka/X94",007DA8,FFFFFF,1
-L897,99,X97,,3,"https://pid.cz/linka/X97",007DA8,FFFFFF,1
-L899,99,X99,,3,"https://pid.cz/linka/X99",007DA8,FFFFFF,1
+L895,99,X95,"Palmovka - Vozovna Kobylisy",3,"https://pid.cz/linka/X95",007DA8,FFFFFF,1
 L901,99,901,"Anděl - Skalka",3,"https://pid.cz/linka/901",007DA8,FFFFFF,1
 L902,99,902,"Lysolaje - Řeporyjské náměstí - Třebonice",3,"https://pid.cz/linka/902",007DA8,FFFFFF,1
 L904,99,904,"Sídliště Stodůlky - Sídliště Písnice",3,"https://pid.cz/linka/904",007DA8,FFFFFF,1
@@ -184,6 +168,7 @@ L912,99,912,"Hloubětínská - Ve Žlíbku",3,"https://pid.cz/linka/912",007DA8,
 L913,99,913,"Dolní Chabry - Točná",3,"https://pid.cz/linka/913",007DA8,FFFFFF,1
 L914,99,914,"Třebenická - Březiněves",3,"https://pid.cz/linka/914",007DA8,FFFFFF,1
 L915,99,915,"Cukrovar Čakovice - Miškovice",3,"https://pid.cz/linka/915",007DA8,FFFFFF,1
+L937,99,X-S7,"Nádraží Radotín - Smíchovské nádraží",3,"https://pid.cz/linka/X-S7",007DA8,FFFFFF,0
 L955,99,955,"Praha, Terminál 1- Tuchoměřice,Obecní úřad",3,"https://pid.cz/linka/955",007DA8,FFFFFF,1
 L110,99,110,"Třeboradice - Dolní Počernice",3,"https://pid.cz/linka/110",007DA8,FFFFFF,0
 L115,99,115,"Chodov - Městský archiv - Chodov",3,"https://pid.cz/linka/115",007DA8,FFFFFF,0
@@ -215,13 +200,6 @@ L228,99,228,"Poliklinika Malešice - Benice",3,"https://pid.cz/linka/228",007DA8
 L240,99,240,"Černý Most - Háje",3,"https://pid.cz/linka/240",007DA8,FFFFFF,0
 L242,99,242,"Zbraslavské náměstí - Dolní Černošice",3,"https://pid.cz/linka/242",007DA8,FFFFFF,0
 L243,99,243,"Lipence - Kazín",3,"https://pid.cz/linka/243",007DA8,FFFFFF,0
-L253,99,253,"Poliklinika Malešice - Hostýnská",3,"https://pid.cz/linka/253",007DA8,FFFFFF,0
-L254,99,254,"Přeštická - Morseova",3,"https://pid.cz/linka/254",007DA8,FFFFFF,0
-L257,99,257,"Miškovice - Náměstí Jiřího Berana",3,"https://pid.cz/linka/257",007DA8,FFFFFF,0
-L258,99,258,"Hlubočepy - Štěpařská - Hlubočepy",3,"https://pid.cz/linka/258",007DA8,FFFFFF,0
-L264,99,264,"Sudějovická - Hulická",3,"https://pid.cz/linka/264",007DA8,FFFFFF,0
-L270,99,270,"Pitkovice - Na Vartě",3,"https://pid.cz/linka/270",007DA8,FFFFFF,0
-L273,99,273,"Depo Hostivař - Sídliště Skalka",3,"https://pid.cz/linka/273",007DA8,FFFFFF,0
 L300,99,300,"Praha,Nádraží Veleslavín - Kladno,Energie",3,"https://pid.cz/linka/300",007DA8,FFFFFF,0
 L302,99,302,"Praha,Českomoravská - Veleň",3,"https://pid.cz/linka/302",007DA8,FFFFFF,0
 L303,99,303,"Praha,Černý Most - Říčany,Wolkerova",3,"https://pid.cz/linka/303",007DA8,FFFFFF,0
@@ -261,7 +239,6 @@ L338,99,338,"Praha,Smíchovské nádraží - Hradištko,Pikovice,Most",3,"https:
 L339,99,339,"Praha,Budějovická - Týnec nad Sázavou,Železniční stanice",3,"https://pid.cz/linka/339",007DA8,FFFFFF,0
 L341,99,341,"Praha,Obchodní náměstí- Jílové u Prahy,náměstí/Jesenice",3,"https://pid.cz/linka/341",007DA8,FFFFFF,0
 L342,99,342,"Praha,Nádraží Veleslavín - Slaný,Žel.st.",3,"https://pid.cz/linka/342",007DA8,FFFFFF,0
-L343,99,343,"Praha,Nádraží Klánovice-sever - Nehvizdy,Škola",3,"https://pid.cz/linka/343",007DA8,FFFFFF,0
 L344,99,344,"Praha,Černý Most - Horoušany,U rybníka",3,"https://pid.cz/linka/344",007DA8,FFFFFF,0
 L346,99,346,"Praha,Černý Most - Brandýs n.L.-St.Bol.,Nem. - Praha,Černý Most",3,"https://pid.cz/linka/346",007DA8,FFFFFF,0
 L348,99,348,"Praha,Bulovka - Obříství",3,"https://pid.cz/linka/348",007DA8,FFFFFF,0
@@ -317,8 +294,7 @@ L426,99,426,"Pečky - Klučov,Skramníky - Český Brod - Tuklaty,Tlustovousy",3
 L427,99,427,"Čelákovice - Vyšehořovice - Kounice",3,"https://pid.cz/linka/427",007DA8,FFFFFF,0
 L428,99,428,"Mukařov - Doubek - Říčany - Modletice - Jesenice",3,"https://pid.cz/linka/428",007DA8,FFFFFF,0
 L429,99,429,"Poříčany - Velenka - Semice",3,"https://pid.cz/linka/429",007DA8,FFFFFF,0
-L430,99,430,"Mochov - Přerov n.L.",3,"https://pid.cz/linka/430",007DA8,FFFFFF,0
-L431,99,431,"Lysá nad Labem - Lysá nad Labem, Byšičky / Stará Lysá - Předměřice nad Jizerou",3,"https://pid.cz/linka/431",007DA8,FFFFFF,0
+L431,99,431,"Lysá nad Labem - Lysá nad Labem, Byšičky/Stará Lysá - Předměřice nad Jizerou",3,"https://pid.cz/linka/431",007DA8,FFFFFF,0
 L432,99,432,"Lysá nad Labem - Milovice - Mladá Boleslav",3,"https://pid.cz/linka/432",007DA8,FFFFFF,0
 L433,99,433,"Nymburk - Sadská - Pečky",3,"https://pid.cz/linka/433",007DA8,FFFFFF,0
 L434,99,434,"Nymburk - Straky - Milovice - Benátky nad Jizerou",3,"https://pid.cz/linka/434",007DA8,FFFFFF,0
@@ -337,8 +313,6 @@ L446,99,446,"Mníšek pod Brdy - Kytín - Voznice,Chouzavá",3,"https://pid.cz/l
 L447,99,447,"Mníšek p.Brdy,náměstí - Mníšek p.Brdy,žel.st. - Mníšek p.Brdy,OPS Magdaléna",3,"https://pid.cz/linka/447",007DA8,FFFFFF,0
 L448,99,448,"Lety - Dobřichovice - Mníšek pod Brdy",3,"https://pid.cz/linka/448",007DA8,FFFFFF,0
 L449,99,449,"Jíloviště - Čisovice - Mníšek pod Brdy",3,"https://pid.cz/linka/449",007DA8,FFFFFF,0
-L450,99,450,"Polní Voděrady - Plaňany - Vrbčany",3,"https://pid.cz/linka/450",007DA8,FFFFFF,0
-L451,99,451,"Mořina - Řevnice",3,"https://pid.cz/linka/451",007DA8,FFFFFF,0
 L452,99,452,"Benešov - Týnec nad Sázavou - Jílové u Prahy",3,"https://pid.cz/linka/452",007DA8,FFFFFF,0
 L453,99,453,"Benešov - Týnec nad Sázavou -  Netvořice - Neveklov",3,"https://pid.cz/linka/453",007DA8,FFFFFF,0
 L454,99,454,"Benešov - Neveklov - Křečovice,Živohošť",3,"https://pid.cz/linka/454",007DA8,FFFFFF,0
@@ -351,7 +325,6 @@ L460,99,460,"Nový Knín - Borotice,Dražetice - Nový Knín",3,"https://pid.cz/
 L461,99,461,"Strančice - Velké Popovice - Kamenice",3,"https://pid.cz/linka/461",007DA8,FFFFFF,0
 L462,99,462,"Strančice - Kunice,Všešímy",3,"https://pid.cz/linka/462",007DA8,FFFFFF,0
 L464,99,464,"Mělník - Lužec nad Vltavou - Horní Beřkovice",3,"https://pid.cz/linka/464",007DA8,FFFFFF,0
-L465,99,465,"Chocerady - Chocerady,Samechov",3,"https://pid.cz/linka/465",007DA8,FFFFFF,0
 L466,99,466,"Mělník - Spomyšl - Kralupy nad Vltavou",3,"https://pid.cz/linka/466",007DA8,FFFFFF,0
 L467,99,467,"Mladá Boleslav - Mělník - Roudnice nad Labem",3,"https://pid.cz/linka/467",007DA8,FFFFFF,0
 L468,99,468,"Mělník - Dolní Beřkovice - Černouček",3,"https://pid.cz/linka/468",007DA8,FFFFFF,0
@@ -367,7 +340,6 @@ L477,99,477,"Brandýs n.L.-St.Boleslav - Mratín - Brandýs n.L.-St.Boleslav",3,
 L478,99,478,"Brandýs n.L.-St.Boleslav - Zápy - Brandýs n.L.-St.Boleslav",3,"https://pid.cz/linka/478",007DA8,FFFFFF,0
 L479,99,479,"Neratovice,Korycany - Veliká Ves - Neratovice",3,"https://pid.cz/linka/479",007DA8,FFFFFF,0
 L480,99,480,"Kostomlaty nad Labem - Lysá nad Labem",3,"https://pid.cz/linka/480",007DA8,FFFFFF,0
-L482,99,482,"Úvaly - Vyšehořovice - Nehvizdy",3,"https://pid.cz/linka/482",007DA8,FFFFFF,0
 L484,99,484,"Úvaly - Horoušany - Úvaly",3,"https://pid.cz/linka/484",007DA8,FFFFFF,0
 L485,99,485,"Týnec nad Sázavou - Netvořice - Rabyně,Měřín",3,"https://pid.cz/linka/485",007DA8,FFFFFF,0
 L486,99,486,"Sedlčany - Osečany",3,"https://pid.cz/linka/486",007DA8,FFFFFF,0
@@ -388,7 +360,7 @@ L512,99,512,"Příbram - Obecnice - Sádek",3,"https://pid.cz/linka/512",007DA8,
 L531,99,531,"Hořovice - Příbram",3,"https://pid.cz/linka/531",007DA8,FFFFFF,0
 L555,99,555,"Kladno - Běleč - Zbečno - Roztoky",3,"https://pid.cz/linka/555",007DA8,FFFFFF,0
 L577,99,577,"Rakovník - Křivoklát - Nezabudice",3,"https://pid.cz/linka/577",007DA8,FFFFFF,0
-L579,99,579,"Branov - Křivoklát - Nezabudice",3,"https://pid.cz/linka/579",007DA8,FFFFFF,0
+L579,99,579,"Branov - Karlova Ves - Roztoky - Křivoklát - Městečko - Nezabudice",3,"https://pid.cz/linka/579",007DA8,FFFFFF,0
 L580,99,580,"Slaný - Mšec - Řevničov - Rakovník",3,"https://pid.cz/linka/580",007DA8,FFFFFF,0
 L581,99,581,"Lubná - Rakovník - Lužná - Nové Strašecí",3,"https://pid.cz/linka/581",007DA8,FFFFFF,0
 L583,99,583,"Rakovník - Řevničov - Třeboc - Ročov",3,"https://pid.cz/linka/583",007DA8,FFFFFF,0
@@ -454,7 +426,6 @@ L667,99,667,"Brandýs n.L.-St.Boleslav - Skorkov - Brandýs n.L.-St.Boleslav",3,
 L668,99,668,"Všetaty - Byšice - Mšeno",3,"https://pid.cz/linka/668",007DA8,FFFFFF,0
 L669,99,669,"Brandýs n.L.-St. Boleslav - Dřísy - Mečeříž",3,"https://pid.cz/linka/669",007DA8,FFFFFF,0
 L670,99,670,"Brandýs n.L.-St. Boleslav - Sudovo Hlavno/Mečeříž",3,"https://pid.cz/linka/670",007DA8,FFFFFF,0
-L671,99,671,"Jenštejn - Přezletice - Brandýs n.L.-St. Boleslav",3,"https://pid.cz/linka/671",007DA8,FFFFFF,0
 L672,99,672,"Vrané nad Vltavou - Zvole",3,"https://pid.cz/linka/672",007DA8,FFFFFF,0
 L673,99,673,"Nymburk - Oskořínek - Křinec",3,"https://pid.cz/linka/673",007DA8,FFFFFF,0
 L674,99,674,"Nymburk - Netřebice - Křinec",3,"https://pid.cz/linka/674",007DA8,FFFFFF,0
@@ -463,7 +434,6 @@ L676,99,676,"Nymburk - Loučeň",3,"https://pid.cz/linka/676",007DA8,FFFFFF,0
 L678,99,678,"Poděbrady - Cerhenice - Pečky",3,"https://pid.cz/linka/678",007DA8,FFFFFF,0
 L679,99,679,"Poděbrady - Velim - Kolín",3,"https://pid.cz/linka/679",007DA8,FFFFFF,0
 L688,99,688,"Nehvizdy - Zeleneč,Mstětice",3,"https://pid.cz/linka/688",007DA8,FFFFFF,0
-L742,99,742,"Praha,Smíchovské nádraží - Vrané n.Vlt,,Žel st.",3,"https://pid.cz/linka/742",007DA8,FFFFFF,0
 L747,99,747,"Mělník - Byšice",3,"https://pid.cz/linka/747",007DA8,FFFFFF,0
 L903,99,903,"Palmovka - Královice",3,"https://pid.cz/linka/903",007DA8,FFFFFF,1
 L951,99,951,"Praha, Chaplinovo náměstí - Dobřichovice,Pošta",3,"https://pid.cz/linka/951",007DA8,FFFFFF,1
@@ -481,9 +451,6 @@ L1723,99,BB1,"(BB1) Budějovická - Delta",3,"https://pid.cz/linka/BB1",007DA8,F
 L1731,99,MHD 1,"MHD Říčany 1 ŽLUTÁ Olivovna - Nádraží - OÁZA",3,"https://pid.cz/linka/MHD 1",007DA8,FFFFFF,0
 L1732,99,MHD 2,"MHD Říčany 2 ČERVENÁ Kuří - Nádraží - ZŠ Nemo - Strašín,Pastelkov",3,"https://pid.cz/linka/MHD 2",007DA8,FFFFFF,0
 L1733,99,MHD 3,"MHD Říčany 3 MODRÁ Jažlovice - Nádraží - Strašín",3,"https://pid.cz/linka/MHD 3",007DA8,FFFFFF,0
-L1734,99,ŠKOLNÍ 1,"Školní Říčany Š1 Strašín - Pacov - Pastelkov - ZŠ U Říčanského lesa",3,"https://pid.cz/linka/ŠKOLNÍ 1",007DA8,FFFFFF,0
-L1735,99,ŠKOLNÍ 2,"Školní Říčany Š2 Kuří - Na Vysoké",3,"https://pid.cz/linka/ŠKOLNÍ 2",007DA8,FFFFFF,0
-L1736,99,ŠKOLNÍ 3,"Školní Říčany Š3 Jažlovice - Voděrádky",3,"https://pid.cz/linka/ŠKOLNÍ 3",007DA8,FFFFFF,0
 L1801,99,P1,"Sedlec - Zámky",4,"https://pid.cz/linka/P1",00B3CB,000000,0
 L1802,99,P2,"V Podbabě - Podhoří",4,"https://pid.cz/linka/P2",00B3CB,000000,0
 L1803,99,P3,"Lihovar - Veslařský ostrov",4,"https://pid.cz/linka/P3",00B3CB,000000,0
